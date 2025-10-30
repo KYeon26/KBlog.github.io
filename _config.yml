@@ -23,7 +23,7 @@ repository               : "KYeon26/KBlog.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "My-Profile-Picture.JPG"
   name             : "Yeong Kah Ho"
   pronouns         : # example: "she/her"  
   bio              : "expertise in research, analytical skills, critical thinking, and leadership."
