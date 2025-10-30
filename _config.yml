@@ -28,7 +28,10 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Passionate about translating biomass valorization from research concepts into real-world applications."
   location         : "Kuching, Sarawak, Malaysia"
-  employer         : "BSc Biotech | MEng Env. Eng."
+  employer         : "Education"
+  degrees:
+    - "BSc Biotech (SUTS)"
+    - "MEng Env. Eng. (UCAS)"
   uri              : # URL
   email            : "ykahho7@gmail.com" 
 
