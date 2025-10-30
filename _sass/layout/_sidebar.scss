@@ -81,6 +81,11 @@
    ========================================================================== */
 
 .author__avatar {
+  img {
+    border-radius: 50%;
+    object-fit: cover;
+  }
+
   display: table-cell;
   vertical-align: top;
   width: 36px;
