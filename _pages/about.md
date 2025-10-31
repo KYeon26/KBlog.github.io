@@ -23,9 +23,7 @@ While waiting for my Master’s studies to begin in China, I worked as a Product
 "Expanding my horizons"
 Eager to further my knowledge, I moved to China to pursue a Master's degree in Environmental Engineering at the University of Chinese Academy of Sciences. I completed a one-year course in Beijing with a CGPA of 3.96, followed by two years of research at the Institute of Urban Environment in Xiamen.
 
-### Research and ANSO Collaboration Project
-"Contributing to global research"
-During my time in Xiamen, I was part of the ANSO collaboration project (Project ID: ANSO-CRKP-2021-08) and was honored with the ANSO Scholarship for Young Talents. My research focused on environmental engineering, and this experience deepened my passion for translating research into real-world impact.
+
 
 ### Graduation and Discovery of My Passion
 "A new beginning"
