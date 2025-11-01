@@ -15,4 +15,4 @@ My academic journey took a new turn when I moved to China to pursue a Master's d
 
 I graduated in July 2025, marking the end of my formal studies. It was during this time that I developed a passion for translating research concepts into real-world applications that can drive change.
 
-To be continued...
+**To be continued...**
