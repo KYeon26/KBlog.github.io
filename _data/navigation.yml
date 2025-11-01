@@ -12,7 +12,7 @@ main:
     url: /about/
 
   - title: "Education"
-    url: /publications/
+    url: /education/
 
   - title: "Experience"
     url: /portfolio/
