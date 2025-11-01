@@ -11,23 +11,17 @@ main:
   - title: "About"
     url: /about/
 
-  - title: "Projects"
-    url: /portfolio/    
+  - title: "Education"
+    url: /publications/
 
   - title: "Experience"
-    url: /experience/    
-    
-  - title: "Talks and Conferences"
-    url: /talks-and-conferences/
-        
-  - title: "Publications and Thesis"
-    url: /publications-and-thesis/
-    
+    url: /portfolio/
+
+  - title: "Training and Conference"
+    url: /talks/
+
+  - title: "Thesis and Publication"
+    url: /publications/
+
   - title: "CV"
     url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
