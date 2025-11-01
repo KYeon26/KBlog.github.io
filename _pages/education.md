@@ -10,7 +10,7 @@ author_profile: true
 *2019 - 2022*
 **CGPA: 3.71**
 
-During my time at Swinburne University of Technology, I pursued my Bachelor of Biotechnology and graduated with honors, achieving a CGPA of 3.71. I was consistently on the Dean's List (GPA ≥ 3.5) and had the opportunity to apply my knowledge in exciting real-world challenges.
+During my time at Swinburne University of Technology, I pursued my Bachelor of Biotechnology and graduated with honors, achieving a CGPA of 3.71. I was consistently on the Dean's List and had the opportunity to apply my knowledge in exciting real-world challenges.
 
 ### Key Achievements:
 
