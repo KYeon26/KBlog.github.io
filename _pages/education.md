@@ -17,7 +17,7 @@ During my time at Swinburne University of Technology, I pursued my Bachelor of B
 #### Innovate Sarawak Design Challenge 2021
 **Project Title: Predicting SARS-CoV-2 Inhibitors Using Machine Learning**
 
-In 2021, I led a team of three in the Innovate Sarawak Design Challenge, where we focused on predicting SARS-CoV-2 inhibitors using machine learning. We employed Principal Component Analysis (PCA) for dataset preparation and trained protein kinase models, which were deployed on the DrugBank dataset to predict potential inhibitors. Our innovative approach earned us the First Prize in the AI Track and the Overall Excellent Award, which was a proud moment for our team.
+In 2021, I led a team of three in the Innovate Sarawak Design Challenge, where we focused on predicting SARS-CoV-2 inhibitors using machine learning. We employed Principal Component Analysis (PCA) for dataset preparation and trained protein kinase models, which were deployed on the DrugBank dataset to predict potential inhibitors. Our team utilized Microsoft Azure for model deployment and computational support. Our innovative approach earned us the First Prize in the AI Track and the Overall Excellent Award, which was a proud moment for our team.
 
 #### 8th International Biotechnology Competition and Exhibition 2022
 **Project Title: Innovative Green Method for Enhancing the Production of Agarwood Oil**
