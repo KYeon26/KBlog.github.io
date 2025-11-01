@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 <img src="/KBlog.github.io/assets/images/Pic-1.PNG" alt="Pic-1" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-<img src="/KBlog.github.io/assets/images/Pic-2.jpg" alt="Pic-2" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-<img src="/KBlog.github.io/assets/images/Pic-3.JPG" alt="Pic-3" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 
 This is me. I was born in Ipoh, Perak, Malaysia, where I spent my childhood and completed my primary education at SJK(C) Gunning Rapat and my secondary education at Poi Lam High School (SUWA). Growing up in this vibrant town sparked my curiosity about science and the world around me, laying the foundation for everything that followed.
+
+<img src="/KBlog.github.io/assets/images/Pic-3.JPG" alt="Pic-3" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 
 After finishing school, I moved to Kuching, Sarawak, where I pursued a Bachelor's degree in Biotechnology at Swinburne University of Technology. I graduated with honors, achieving a CGPA of 3.71. This was a significant chapter of my life, where I began to truly delve into the world of science and research, expanding my knowledge and skills. It was during this time that I met Dr. Daniel Tan Lee Tung, my FYP supervisor, who encouraged me to pursue my Master's studies, leading to the next chapter of my academic journey.
 
