@@ -21,8 +21,10 @@ While awaiting my Master's studies in China, I worked as a Product Development E
 
 My academic journey took a new turn when I moved to China to pursue a Master's degree in Environmental Engineering at the University of Chinese Academy of Sciences. The first year was spent attending courses in Beijing, where I achieved a CGPA of 3.96, followed by two years of research at the Institute of Urban Environment in Xiamen. This experience allowed me to grow not only as a researcher but also gave me a lot of exposure to global collaborators in China, Malaysia, and Indonesia. This stage of my journey deepened my passion for environmental research and further fuelled my desire to make a real-world impact through science.
 
-<img src="/KBlog.github.io/assets/images/Pic-6.JPG" alt="Pic-6" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-<img src="/KBlog.github.io/assets/images/Pic-7.JPG" alt="Pic-7" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
+<div style="display: flex; justify-content: space-between;">
+  <img src="/KBlog.github.io/assets/images/Pic-6.JPG" alt="Pic-6" style="width: 48%;">
+  <img src="/KBlog.github.io/assets/images/Pic-7.png" alt="Pic-7" style="width: 48%;">
+</div>
 
 I graduated in July 2025, marking the end of my formal studies. It was during this time that I developed a passion for translating research concepts into real-world applications that can drive change.
 
