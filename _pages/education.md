@@ -33,13 +33,9 @@ In April 2022, I presented my individual project at the 8th International Biotec
 *September 2022 – July 2025*
 **CGPA: 3.96**
 
-**ANSO Scholarship for Young Talents** – Awarded by the Alliance of International Science Organizations (ANSO) to support exceptional global talents in postgraduate studies in China.
-
-During my Master’s studies at the University of Chinese Academy of Sciences, I focused on utilizing Malaysian biomass waste for biochar production to address agricultural challenges in paddy fields. My research involved evaluating a variety of feedstocks, including oil palm (mesocarp fiber, kernel shell, empty fruit bunch), sago (pith, bark, fine and coarse fiber), and coconut (shell, fiber).
-
-*   Conducted a comparative study of nine biomass feedstocks for biochar production.
-*   Performed thermogravimetric analysis to optimize temperature profiles for maximum biochar yield and quality.
-*   Led soil amendment trials in greenhouse and paddy fields to evaluate the impact of biochar on soil health, crop growth, and yield.
+Details of my academic transcript:
+"Awarded the ANSO Scholarship for Young Talents Award,granted by the Alliance of International Science Organizations (ANSO) to support exceptional global talents in postgraduate studies in China."
+"During my studies, I focused on conducting a comparative study of Malaysian Palmae biomass feedstocks for biochar production and carbon dioxide capture, optimizing pyrolysis kinetics, and evaluating soil amendment performance through greenhouse and paddy field trials to enhance crop growth and soil health."
 
 ### Key Achievements:
 #### 中国科学院大学第五届“诵读中国”经典诵读大赛
