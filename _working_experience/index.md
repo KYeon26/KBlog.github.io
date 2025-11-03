@@ -27,4 +27,4 @@ comment: false
   <li>Led international collaborations with universities, associations, and enterprises across China, Malaysia, and Indonesia, managing cross-functional teams to promote sustainable development initiatives and biomass waste resource projects in Southeast Asia.</li>
 </ul>
 
-<img src="/KBlog.github.io/assets/images/Signing-Ceremony.JPG" alt="Signing Ceremony" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
+<img src="/KBlog.github.io/assets/images/Signing-Ceremony.JPG" alt="Signing Ceremony" style="width: 80%; display: block; margin-left: auto; margin-right: auto;">
