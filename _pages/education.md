@@ -35,9 +35,8 @@ In April 2022, I presented my individual project at the 8th International Biotec
 ---
 
 ## Master of Engineering in Environmental Engineering
-**University of Chinese Academy of Sciences, Beijing, China**
-*2022-2025*
-**CGPA: 3.96**
+**University of Chinese Academy of Sciences, Beijing, China** 2022-2025
+CGPA: 3.96
 
 
 - [View Academic Transcript](/KBlog.github.io/files/2022B80181370071140632913-signature.pdf)
