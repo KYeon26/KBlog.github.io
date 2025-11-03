@@ -43,8 +43,8 @@ In April 2022, I presented my individual project at the 8th International Biotec
 **University of Chinese Academy of Sciences, Beijing, China** **(2022-2025)**
 
 CGPA: 3.96 - [View Academic Transcript](/KBlog.github.io/files/UCAS-academic-transcript.pdf)
-- Awarded the ANSO Scholarship for Young Talents Award, granted by the Alliance of International Science Organizations (ANSO) to support exceptional global talents in postgraduate studies in China.
-- Conducted a comparative study of Malaysian Palmae biomass feedstocks for biochar production and carbon dioxide capture, optimized pyrolysis kinetics, and assessed soil amendments in greenhouse and paddy field trials for improved crop growth and soil health.
+<p style="text-align: justify;">Awarded the ANSO Scholarship for Young Talents Award, granted by the Alliance of International Science Organizations (ANSO) to support exceptional global talents in postgraduate studies in China.</p>
+<p style="text-align: justify;">Conducted a comparative study of Malaysian Palmae biomass feedstocks for biochar production and carbon dioxide capture, optimized pyrolysis kinetics, and assessed soil amendments in greenhouse and paddy field trials for improved crop growth and soil health.</p>
 
 ### Key Achievement:
 
