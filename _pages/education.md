@@ -30,6 +30,9 @@ In 2021, I led a team of three in the Innovate Sarawak Design Challenge, where w
 
 In April 2022, I presented my individual project at the 8th International Biotechnology Competition, which was also my Final Year Project for my Bachelor's degree. My project explored various pre-treatment techniques (chemical, enzymatic, and combined) on Agarwood bole plant parts and proposed an innovative green method to improve both the yield and quality of Agarwood oil. This work earned me a Bronze Award in the Innovate Product Presentation Category (Green Technology).
 
+#### Certification:
+<img src="/KBlog.github.io/assets/images/IBCEX22.png" alt="IBCEX22 Certificate" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
+
 [View Brochure](/KBlog.github.io/files/Brochure-IBCEX.pdf)
 
 ---
