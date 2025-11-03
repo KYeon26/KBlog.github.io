@@ -17,7 +17,7 @@ After finishing school, I moved to Kuching, Sarawak, where I pursued a Bachelor'
 
 While awaiting my Master's studies in China, I worked as a Product Development Executive at Soon Soon Oilmills Sdn. Bhd. in Penang, Malaysia. This was my first time bridging the gap between academia and real-world applications, gaining valuable hands-on industry experience that would later shape my approach to research and innovation.
 
-<img src="/KBlog.github.io/assets/images/Pic-5.HEIC" alt="Pic-5" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
+<img src="/KBlog.github.io/assets/images/Pic-5.2.jpeg" alt="Pic-5" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 
 My academic journey took a new turn when I moved to China to pursue a Master's degree in Environmental Engineering at the University of Chinese Academy of Sciences. The first year was spent attending courses in Beijing, where I achieved a CGPA of 3.96, followed by two years of research at the Institute of Urban Environment in Xiamen. This experience allowed me to grow not only as a researcher but also gave me a lot of exposure to global collaborators in China, Malaysia, and Indonesia. This stage of my journey deepened my passion for environmental research and further fuelled my desire to make a real-world impact through science.
 
