@@ -35,8 +35,8 @@ In April 2022, I presented my individual project at the 8th International Biotec
 
 Details of my academic transcript:
 [View Academic Transcript](/KBlog.github.io/files/2022B80181370071140632913-signature.pdf)
-“Awarded the ANSO Scholarship for Young Talents Award,granted by the Alliance of International Science Organizations (ANSO) to support exceptional global talents in postgraduate studies in China.”
-“During my studies, I focused on conducting a comparative study of Malaysian Palmae biomass feedstocks for biochar production and carbon dioxide capture, optimizing pyrolysis kinetics, and evaluating soil amendment performance through greenhouse and paddy field trials to enhance crop growth and soil health.”
+Awarded the ANSO Scholarship for Young Talents Award,granted by the Alliance of International Science Organizations (ANSO) to support exceptional global talents in postgraduate studies in China.
+During my studies, I focused on conducting a comparative study of Malaysian Palmae biomass feedstocks for biochar production and carbon dioxide capture, optimizing pyrolysis kinetics, and evaluating soil amendment performance through greenhouse and paddy field trials to enhance crop growth and soil health.
 
 ### Key Achievements:
 #### 中国科学院大学第五届“诵读中国”经典诵读大赛
