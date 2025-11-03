@@ -14,3 +14,5 @@ comment: true
 - Streamlined operational processes, improving product quality, reducing costs, and enhancing overall efficiency.
 - Developed and executed experimental protocols to ensure consistency and quality in product testing.
 - Assisted in sourcing and evaluating suppliers for food processing aids and additives, ensuring high-quality material selection.
+
+<img src="/KBlog.github.io/assets/images/Soonsoon.jpeg" alt="Soonsoon" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
