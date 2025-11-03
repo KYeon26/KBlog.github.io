@@ -22,7 +22,7 @@ comment: false
 
 **Institute of Urban Environment - Xiamen, China**
 
-**Project: Technology Research & Development and Application Demonstration for Sustainable Development of Biomass Waste Resources in Southeast Asian Countries" (Project ID: ANSO-CR-KP-2021-08).**
+**Project: Technology Research & Development and Application Demonstration for Sustainable Development of Biomass Waste Resources in Southeast Asian Countries (Project ID: ANSO-CR-KP-2021-08).**
 <ul style="text-align: justify;">
   <li>Led international collaborations with universities, associations, and enterprises across China, Malaysia, and Indonesia, managing cross-functional teams to promote sustainable development initiatives and biomass waste resource projects in Southeast Asia.</li>
 </ul>
