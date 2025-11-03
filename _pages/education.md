@@ -9,7 +9,9 @@ author_profile: true
 **Swinburne University of Technology, Sarawak (SUTS), Kuching, Malaysia** **(2019 - 2022)**
 
 CGPA: 3.71
-- Final Year Project (FYP): Enhanced Agarwood essential oil extraction by evaluating pre-treatments (acidic, enzymatic, combined) across cortex, IP-XR zone, and pith; established an optimized pre-treatment workflow that improves yield and efficiency for downstream solvent extraction.
+<ul style="text-align: justify;">
+  <li>Final Year Project (FYP): Enhanced Agarwood essential oil extraction by evaluating pre-treatments (acidic, enzymatic, combined) across cortex, IP-XR zone, and pith; established an optimized pre-treatment workflow that improves yield and efficiency for downstream solvent extraction.</li>
+</ul>
 
 
 
@@ -51,7 +53,9 @@ CGPA: 3.96 - [View Academic Transcript](/KBlog.github.io/files/UCAS-academic-tra
 ### Key Achievement:
 
 ### 1. 中国科学院大学第五届“诵读中国”经典诵读大赛
-Achieved Third Place at the university level and received the National Excellence Award, recognizing outstanding performance in literature recitation and cultural expression.
+<ul style="text-align: justify;">
+  <li>Achieved Third Place at the university level and received the National Excellence Award, recognizing outstanding performance in literature recitation and cultural expression.</li>
+</ul>
 
 <div style="display: flex; justify-content: space-between;">
   <img src="/KBlog.github.io/assets/images/RECITATION-1.PNG" alt="Recitation Certificate 1" style="width: 48%;">
