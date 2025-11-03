@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Bachelor of Biotechnology
-**Swinburne University of Technology, Sarawak (SUTS), Kuching, Malaysia** 2019 - 2022
+**Swinburne University of Technology, Sarawak (SUTS), Kuching, Malaysia** **(2019 - 2022)**
 CGPA: 3.71
 
 
@@ -35,7 +35,7 @@ In April 2022, I presented my individual project at the 8th International Biotec
 ---
 
 ## Master of Engineering in Environmental Engineering
-**University of Chinese Academy of Sciences, Beijing, China** 2022-2025
+**University of Chinese Academy of Sciences, Beijing, China** **(2022-2025)**
 CGPA: 3.96
 
 
