@@ -7,6 +7,7 @@ author_profile: true
 
 ## Bachelor of Biotechnology
 **Swinburne University of Technology, Sarawak (SUTS), Kuching, Malaysia** **(2019 - 2022)**
+
 CGPA: 3.71
 
 
