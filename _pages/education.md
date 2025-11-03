@@ -48,3 +48,8 @@ In April 2022, I presented my individual project at the 8th International Biotec
 
 ### 1. 中国科学院大学第五届“诵读中国”经典诵读大赛
 Achieved Third Place at the university level and received the National Excellence Award, recognizing outstanding performance in literature recitation and cultural expression.
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="/KBlog.github.io/assets/images/RECITATION-1.PNG" alt="Recitation Certificate 1" style="width: 48%;">
+  <img src="/KBlog.github.io/assets/images/RECITATION-2.JPG" alt="Recitation Certificate 2" style="width: 48%;">
+</div>
