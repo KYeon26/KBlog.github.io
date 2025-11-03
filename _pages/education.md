@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "My Education Journey"
+title: "My Education"
 permalink: /education/
 author_profile: true
 ---
