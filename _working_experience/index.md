@@ -8,7 +8,7 @@ comment: false
 ---
 
 ### 1. Product Development Executive (2022)
-**Soon Soon Oilmills Sdn. Bhd.- Penang, Malaysia**
+**Soon Soon Oilmills Sdn. Bhd. - Penang, Malaysia**
 <ul style="text-align: justify;">
   <li>Led trend analysis and competitive research to identify niche markets for organic products, developing innovative products like Chickpea Spread for commercialization.</li>
   <li>Streamlined operational processes, improving product quality, reducing costs, and enhancing overall efficiency.</li>
@@ -20,7 +20,7 @@ comment: false
 
 ### 2. Research Assistant (2023 – 2025)
 
-**Institute of Urban Environment- Xiamen, China**
+**Institute of Urban Environment - Xiamen, China**
 
 **Project: Technology Research & Development and Application Demonstration for Sustainable Development of Biomass Waste Resources in Southeast Asian Countries" (Project ID: ANSO-CR-KP-2021-08).**
 <ul style="text-align: justify;">
