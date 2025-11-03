@@ -3,8 +3,8 @@ layout: single
 title: "My Experience"
 permalink: /working_experience/
 author_profile: true
-share: true
-comment: true
+share: false
+comment: false
 ---
 
 ### 1. Product Development Executive
