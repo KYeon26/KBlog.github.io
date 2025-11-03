@@ -9,7 +9,7 @@ author_profile: true
 **Swinburne University of Technology, Sarawak (SUTS), Kuching, Malaysia** **(2019 - 2022)**
 
 CGPA: 3.71
-- Enhanced Agarwood essential oil extraction by evaluating pre-treatments (acidic, enzymatic, combined) across cortex, IP-XR zone, and pith; established an optimized pre-treatment workflow that improves yield and efficiency for downstream solvent extraction.
+- Final Year Project (FYP): Enhanced Agarwood essential oil extraction by evaluating pre-treatments (acidic, enzymatic, combined) across cortex, IP-XR zone, and pith; established an optimized pre-treatment workflow that improves yield and efficiency for downstream solvent extraction.
 
 
 
