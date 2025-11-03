@@ -14,8 +14,8 @@ main:
   - title: "Education"
     url: /education/
 
-  - title: "Experience"
-    url: /portfolio/
+  - title: "Working experience"
+    url: /working_experience/
 
   - title: "Training and Conference"
     url: /talks/

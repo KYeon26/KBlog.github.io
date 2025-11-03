@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "My Professional Experience"
-permalink: /portfolio/experience/
+permalink: /working_experience/
 author_profile: true
 share: true
 comment: true
