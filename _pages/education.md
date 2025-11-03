@@ -46,7 +46,7 @@ CGPA: 3.96 - [View Academic Transcript](/KBlog.github.io/files/2022B801813700721
 - Awarded the ANSO Scholarship for Young Talents Award, granted by the Alliance of International Science Organizations (ANSO) to support exceptional global talents in postgraduate studies in China.
 - Conducted a comparative study of Malaysian Palmae biomass feedstocks for biochar production and carbon dioxide capture, optimized pyrolysis kinetics, and assessed soil amendments in greenhouse and paddy field trials for improved crop growth and soil health.
 
-### Key Achievements:
+### Key Achievement:
 
 ### 1. 中国科学院大学第五届“诵读中国”经典诵读大赛
 Achieved Third Place at the university level and received the National Excellence Award, recognizing outstanding performance in literature recitation and cultural expression.
