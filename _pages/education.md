@@ -39,11 +39,6 @@ During my Master’s studies at the University of Chinese Academy of Sciences, I
 *   Performed thermogravimetric analysis to optimize temperature profiles for maximum biochar yield and quality.
 *   Led soil amendment trials in greenhouse and paddy fields to evaluate the impact of biochar on soil health, crop growth, and yield.
 
-### Extracurricular Activities
-
-#### Spring School on Frontier and Interdisciplinary Sciences
-**Hangzhou Institute for Advanced Study, UCAS (IC-UCAS), Hangzhou, China – May 2023**
-
-*   Completed coursework focused on interdisciplinary sciences and sustainable development.
-*   Gained in-depth knowledge in Ecology and Environmental Sciences, including ecological systems and environmental impact assessments.
-*   Explored Sustainable Development Practices, integrating economic, social, and environmental dimensions in sustainability studies.
+### Key Achievements:
+中国科学院大学第五届“诵读中国”经典诵读大赛
+Achieved Third Place at the university level and received the National Excellence Award, recognizing outstanding performance in literature recitation and cultural expression.
