@@ -9,5 +9,5 @@ location: "Borneo"
 nolink: true
 ---
 
-1. Jan 2025 | Alliance of Bioeconomy Cooperation Development @ Borneo
+1. Jan 2025
 Deputy Director of Research and Development
