@@ -13,9 +13,24 @@ This is me. I was born in Ipoh, Perak, Malaysia, where I spent my childhood and 
 
 After finishing school, I moved to Kuching, Sarawak, Malaysia, where I pursued a Bachelor’s degree in Biotechnology at Swinburne University of Technology. I graduated with honors, achieving a CGPA of 3.71. This was a significant chapter of my life, where I began to truly delve into the world of science and research, expanding my knowledge and skills. During this time, I met many friends and lovely lecturers, with whom I still keep in contact. Among them, I met Dr. Daniel Tan Lee Tung, my FYP supervisor, who encouraged me to pursue my Master’s studies, leading to the next chapter of my academic journey. He also became my co-supervisor during my Master’s study.
 
+<img src="/KBlog.github.io/assets/images/research-assistant-placeholder.jpg" alt="Research Assistant" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
+
+2. Research Assistant (2023 – 2025)
+Institute of Urban Environment - Xiamen, China
+
+Project: Technology Research & Development and Application Demonstration for Sustainable Development of Biomass Waste Resources in Southeast Asian Countries (Project ID: ANSO-CR-KP-2021-08).
+
+Led international collaborations with universities, associations, and enterprises across China, Malaysia, and Indonesia, managing cross-functional teams to promote sustainable development initiatives and biomass waste resource projects in Southeast Asia.
+
 <img src="/KBlog.github.io/assets/images/Pic-4.JPG" alt="Pic-4" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 
-While awaiting my Master’s studies in China, I worked as a Product Development Executive at Soon Soon Oilmills Sdn. Bhd. in Penang, Malaysia. This was my first time bridging the gap between academia and real-world applications, gaining valuable hands-on industry experience that would later shape my approach to research and innovation. I am deeply grateful to my supervisor, Dr. Wong Yong Chen, and my manager, Mr. Liew Wei Cheng, who taught me the basics of research and trend analysis to identify niche markets for organic products and streamline operations. They provided me with the opportunity to grow from having little knowledge to gaining practical experience in new areas. Their encouragement to continue my studies while I had the chance meant a lot to me. I would also like to thank my lovely colleagues in the product development department for their constant support and for creating a cheerful environment to work in. It was truly a very interesting and memorable experience for me.
+1. Product Development Executive (2022)
+Soon Soon Oilmills Sdn. Bhd. - Penang, Malaysia
+
+Led trend analysis and competitive research to identify niche markets for organic products, developing innovative products like Chickpea Spread for commercialization.
+Streamlined operational processes, improving product quality, reducing costs, and enhancing overall efficiency.
+Developed and executed experimental protocols to ensure consistency and quality in product testing.
+Assisted in sourcing and evaluating suppliers for food processing aids and additives, ensuring high-quality material selection.
 
 <img src="/KBlog.github.io/assets/images/Pic-5.2.jpeg" alt="Pic-5" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 
