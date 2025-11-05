@@ -2,8 +2,6 @@
 title: "Alliance of Bioeconomy Cooperation Development @ Borneo"
 collection: talks
 type: "Membership"
-permalink: /talks/2025-01-01-alliance-of-bioeconomy
-venue: ""
 date: 2025-01-01
 location: "Borneo"
 nolink: true
