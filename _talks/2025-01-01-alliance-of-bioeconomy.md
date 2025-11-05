@@ -1,5 +1,5 @@
 ---
-title: "Alliance of Bioeconomy Cooperation Development @ Borneo"
+title: ""
 collection: talks
 type: "Membership"
 venue: ""
