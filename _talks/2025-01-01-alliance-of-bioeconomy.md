@@ -1,5 +1,4 @@
 ---
-title: "Alliance of Bioeconomy Cooperation Development @ Borneo"
 collection: talks
 type: "Membership"
 venue: "Alliance of Bioeconomy Cooperation Development @ Borneo"
