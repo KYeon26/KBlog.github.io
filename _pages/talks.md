@@ -11,6 +11,8 @@ author_profile: true
   }
 </style>
 
+<hr>
+
 # Membership
 
 <h3>1. Alliance of Bioeconomy Cooperation Development @ Borneo (Since Jan 2025)</h3>
