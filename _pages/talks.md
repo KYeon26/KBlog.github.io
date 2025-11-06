@@ -30,6 +30,16 @@ author_profile: true
 
 # Conferences & Discussions
 
+<h3>1. Participant, Urban Science and Sustainability (USS) Conference</h3>
+<p>Organized by: Institute of Urban Environment (IUE), Chinese Academy of Sciences (CAS)<br>
+14th – 18th December 2023</p>
+<ul>
+  <li>Attended the 1st International Conference on Urban Science and Sustainability (USS) held in Xiamen, China, co-organized by IUE-CAS and the International Society for Industrial Ecology (ISIE).</li>
+  <li>Engaged with leading experts in urban science, sustainability science, and sustainable urban system modeling, exchanging ideas on the future of sustainable urbanization.</li>
+  <li>Participated in discussions on groundbreaking solutions for sustainable development, learning from world-renowned experts and contributing to collaborative efforts aimed at shaping the future of urban environments.</li>
+  <li>The conference built on the success of the USS online lecture series, which has attracted over 30 experts and thousands of participants worldwide, fostering an international platform for knowledge sharing and innovation in urban sustainability.</li>
+</ul>
+
 <hr>
 
 # Training & Workshops
