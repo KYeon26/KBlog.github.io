@@ -5,10 +5,12 @@ permalink: /talks/
 author_profile: true
 ---
 
-{% include base_path %}
+<style>
+  p {
+    text-align: justify;
+  }
+</style>
 
 # Membership
 
-{% for post in site.talks reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<!-- Content will be added here directly -->
