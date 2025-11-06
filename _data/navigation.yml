@@ -17,8 +17,7 @@ main:
   - title: "My Experience"
     url: /working_experience/
 
-  - title: "Academic & Professional Development"
-    url: /talks/
+
 
   - title: "Thesis & Publication"
     url: /publications/
