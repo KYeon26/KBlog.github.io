@@ -5,4 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
-This page is intentionally left blank.
+{% include base_path %}
+
+{% for post in site.talks reversed %}
+  {% include archive-single.html %}
+{% endfor %}
