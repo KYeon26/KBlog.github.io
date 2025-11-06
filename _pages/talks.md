@@ -28,6 +28,10 @@ author_profile: true
 
 <hr>
 
+# Conferences & Discussions
+
+<hr>
+
 # Training & Workshops
 
 <h3>1. Participant, BioAgrotech and Biopharmaceutical Employability and Entrepreneurship Specialised Training (BeST 2.0) Intake 3</h3>
