@@ -7,5 +7,3 @@ date: 2025-01-01
 location: "Borneo"
 nolink: true
 ---
-
-- Deputy Director of Research and Development
