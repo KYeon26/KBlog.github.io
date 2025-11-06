@@ -30,7 +30,12 @@ author_profile: true
 
 # Training & Workshops
 
-<h3>1. Participant, Dongguan Pyrolysis Carbonization Pilot Project</h3>
+<h3>1. Participant, BioAgrotech and Biopharmaceutical Employability and Entrepreneurship Specialised Training (BeST 2.0) Intake 3</h3>
+<p>1 October 2024 – 31 March 2025</p>
+<p>The BeST 2.0 program, organized by MOSTI Malaysia, aims to enhance employability and foster entrepreneurship within the bioagrotech and biopharmaceutical sectors. The program provides specialized training in biotechnology, agribiotechnology, and biopharmaceuticals, with a focus on both technical and soft skills development. Participants gain hands-on experience in areas like product development, microbial work, and bioprocessing, while also being exposed to emerging technologies and industry trends.<br>
+Through this program, I am gaining practical knowledge and skills that bridge the gap between academic learning and real-world applications. I am developing leadership, communication, and teamwork skills while gaining valuable insights into the industry. The on-the-job training aspect further enhances my understanding, preparing me for future opportunities in these rapidly evolving fields</p>
+
+<h3>2. Participant, Dongguan Pyrolysis Carbonization Pilot Project</h3>
 <p>Organized by: Dongshi Group, Dongguan, China (东实环境)<br>
 16 - 24 October 2023</p>
 <ul>
@@ -39,7 +44,7 @@ author_profile: true
   <li>Gained hands-on knowledge of the entire pyrolysis process, from preparation to biochar collection, and explored how waste can be converted into a valuable resource for environmental sustainability.</li>
 </ul>
 
-<h3>2. Participant, 2021 ASEAN Training Course</h3>
+<h3>3. Participant, 2021 ASEAN Training Course</h3>
 <p>Organized by: Institute of Urban Environment, Chinese Academy of Sciences<br>
 15 - 28 November 2021</p>
 <ul>
