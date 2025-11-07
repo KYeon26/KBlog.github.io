@@ -50,7 +50,7 @@ author_profile: true
   <img src="/KBlog.github.io/files/ASIAFLUX-4.JPG" alt="ASIAFLUX-4" style="width: 48%; margin-bottom: 10px;">
 </div>
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <img src="/KBlog.github.io/files/ASIA-FLUX2.PNG" alt="ASIA-FLUX2" style="width: 48%; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/ASIA-FLUX2.PNG" alt="ASIA-FLUX2" style="width: 20%; margin-bottom: 10px;">
 </div>
 
 <h3>2. Presenter, Meeting with STIDC on Biomass Research</h3>
