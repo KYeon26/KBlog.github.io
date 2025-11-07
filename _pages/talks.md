@@ -52,7 +52,7 @@ author_profile: true
   <img src="/KBlog.github.io/files/ASIAFLUX-4.JPG" alt="ASIAFLUX-4" style="width: 48%; margin-bottom: 10px;">
 </div>
 <div style="text-align: center;">
-  <img src="/KBlog.github.io/files/ASIA-FLUX2.PNG" alt="ASIA-FLUX2" style="width: 20%; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/ASIA-FLUX2.PNG" alt="ASIA-FLUX2" style="width: 50%; margin-bottom: 10px;">
 </div>
 
 <h3>2. Presenter, Meeting with STIDC on Biomass Research</h3>
@@ -75,8 +75,8 @@ author_profile: true
 </ul>
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="/KBlog.github.io/files/JG-2.jpeg" alt="JG-2" style="width: 48%;">
-  <img src="/KBlog.github.io/files/JG-3.jpeg" alt="JG-3" style="width: 48%;">
+  <img src="/KBlog.github.io/files/JG-2.jpeg" alt="JG-2" style="width: 48%; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/JG-3.jpeg" alt="JG-3" style="width: 48%; margin-bottom: 10px;">
 </div>
 
 <h3>4. Participant, Discussion on Biomass Valorisation</h3>
@@ -90,10 +90,10 @@ author_profile: true
 </ul>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <img src="/KBlog.github.io/files/MPOB-1.png" alt="MPOB-1" style="width: 48%; margin-bottom: 10px;">
-  <img src="/KBlog.github.io/files/MPOB-2.png" alt="MPOB-2" style="width: 48%; margin-bottom: 10px;">
-  <img src="/KBlog.github.io/files/MPOB-3.JPG" alt="MPOB-3" style="width: 48%; margin-bottom: 10px;">
-  <img src="/KBlog.github.io/files/MPOB-4.JPG" alt="MPOB-4" style="width: 48%; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/MPOB-1.png" alt="MPOB-1" style="width: 23%; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/MPOB-2.png" alt="MPOB-2" style="width: 23%; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/MPOB-3.JPG" alt="MPOB-3" style="width: 23%; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/MPOB-4.JPG" alt="MPOB-4" style="width: 23%; margin-bottom: 10px;">
 </div>
 
 <h3>5. Participant, Urban Science and Sustainability (USS) Conference</h3>
@@ -111,7 +111,7 @@ author_profile: true
   <img src="/KBlog.github.io/files/USS-2.JPG" alt="USS-2" style="width: 48%; margin-bottom: 10px;">
 </div>
 <div style="text-align: center;">
-  <img src="/KBlog.github.io/files/USS-3.JPG" alt="USS-3" style="width: 48%; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/USS-3.JPG" alt="USS-3" style="width: 50%; margin-bottom: 10px;">
 </div>
 
 <hr>
