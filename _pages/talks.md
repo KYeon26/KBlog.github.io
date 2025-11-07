@@ -181,7 +181,7 @@ Through this program, I am gaining practical knowledge and skills that bridge th
 </div>
 
 <h3>2. Visitor, Company Visit to Bravo Green Sdn. Bhd.</h3>
-<p>1st August 2025</p>
+<p>1st August 2024</p>
 <ul>
   <li>Visited Bravo Green Sdn. Bhd. to observe their carbonisation technology and production processes for manufacturing biochar and activated carbon from biomass residues, primarily oil palm (PKS) and coconut shell (PKS).</li>
   <li>Engaged in discussions on the current market dynamics for biochar and activated carbon, as well as the biomass market in Sarawak, gaining a deeper understanding of regional resource-triggered opportunities.</li>
