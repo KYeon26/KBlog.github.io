@@ -102,3 +102,7 @@ Through this program, I am gaining practical knowledge and skills that bridge th
   <li>Gained comprehensive knowledge of biomass waste utilization technologies, addressing key challenges and exploring industrial applications within the ASEAN region.</li>
   <li>The program facilitated scientific exchanges and cooperation between China and ASEAN countries, in alignment with the Belt & Road Initiative.</li>
 </ul>
+
+<hr>
+
+# Company Visits
