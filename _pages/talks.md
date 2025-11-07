@@ -152,6 +152,7 @@ Through this program, I am gaining practical knowledge and skills that bridge th
   <li>Gained comprehensive knowledge of biomass waste utilization technologies, addressing key challenges and exploring industrial applications within the ASEAN region.</li>
   <li>The program facilitated scientific exchanges and cooperation between China and ASEAN countries, in alignment with the Belt & Road Initiative.</li>
 </ul>
+<p><a href="/KBlog.github.io/files/2021 ASEAN Training Course entitled\"Valorization Utilization Technology and IndustrialApplication of Biomass Wastes\".pdf" target="_blank">Certificate</a></p>
 
 <hr>
 
