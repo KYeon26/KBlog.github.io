@@ -15,22 +15,22 @@ After finishing school, I moved to Kuching, Sarawak, Malaysia, where I pursued a
 
 <img src="/KBlog.github.io/assets/images/Signing-Ceremony.JPG" alt="Research Assistant" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 
-2. Research Assistant (2023 – 2025)
-Institute of Urban Environment - Xiamen, China
+<h3>2. Research Assistant (2023 – 2025)</h3>
+<p>Institute of Urban Environment - Xiamen, China</p>
 
-Project: Technology Research & Development and Application Demonstration for Sustainable Development of Biomass Waste Resources in Southeast Asian Countries (Project ID: ANSO-CR-KP-2021-08).
+<p>Project: Technology Research & Development and Application Demonstration for Sustainable Development of Biomass Waste Resources in Southeast Asian Countries (Project ID: ANSO-CR-KP-2021-08).</p>
 
-Led international collaborations with universities, associations, and enterprises across China, Malaysia, and Indonesia, managing cross-functional teams to promote sustainable development initiatives and biomass waste resource projects in Southeast Asia.
+<p>Led international collaborations with universities, associations, and enterprises across China, Malaysia, and Indonesia, managing cross-functional teams to promote sustainable development initiatives and biomass waste resource projects in Southeast Asia.</p>
 
 <img src="/KBlog.github.io/assets/images/Pic-4.JPG" alt="Pic-4" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 
-1. Product Development Executive (2022)
-Soon Soon Oilmills Sdn. Bhd. - Penang, Malaysia
+<h3>1. Product Development Executive (2022)</h3>
+<p>Soon Soon Oilmills Sdn. Bhd. - Penang, Malaysia</p>
 
-Led trend analysis and competitive research to identify niche markets for organic products, developing innovative products like Chickpea Spread for commercialization.
-Streamlined operational processes, improving product quality, reducing costs, and enhancing overall efficiency.
-Developed and executed experimental protocols to ensure consistency and quality in product testing.
-Assisted in sourcing and evaluating suppliers for food processing aids and additives, ensuring high-quality material selection.
+<p>Led trend analysis and competitive research to identify niche markets for organic products, developing innovative products like Chickpea Spread for commercialization.</p>
+<p>Streamlined operational processes, improving product quality, reducing costs, and enhancing overall efficiency.</p>
+<p>Developed and executed experimental protocols to ensure consistency and quality in product testing.</p>
+<p>Assisted in sourcing and evaluating suppliers for food processing aids and additives, ensuring high-quality material selection.</p>
 
 <img src="/KBlog.github.io/assets/images/Pic-5.2.jpeg" alt="Pic-5" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 
