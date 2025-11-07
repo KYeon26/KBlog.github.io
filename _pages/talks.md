@@ -30,7 +30,14 @@ author_profile: true
 
 # Conferences & Discussions
 
-<h3>1. Participant, Urban Science and Sustainability (USS) Conference</h3>
+<h3>1. Presenter, Xiamen University Tan Kah Kee Innovation Laboratory (厦门大学 嘉庚创新实验室), Xiamen, China</h3>
+<p>6th September 2024</p>
+<ul>
+  <li>Engaged in a focused discussion on green hydrogen energy research, hosted by the renowned Tan Kah Kee Innovation Laboratory, a high level national innovation platform dedicated to cutting edge energy materials, low carbon systems, and industrial transformation.</li>
+  <li>Explored the latest technological developments and industrial applications in hydrogen production, storage, and energy materials, gaining insight into the interdisciplinary strategies driving the transition to sustainable hydrogen energy systems.</li>
+</ul>
+
+<h3>2. Participant, Urban Science and Sustainability (USS) Conference</h3>
 <p>Organized by: Institute of Urban Environment (IUE), Chinese Academy of Sciences (CAS)<br>
 14th – 18th December 2023</p>
 <ul>
