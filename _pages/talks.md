@@ -49,7 +49,7 @@ author_profile: true
   <img src="/KBlog.github.io/files/ASIAFLUX-3.jpeg" alt="ASIAFLUX-3" style="width: 48%; margin-bottom: 10px;">
   <img src="/KBlog.github.io/files/ASIAFLUX-4.JPG" alt="ASIAFLUX-4" style="width: 48%; margin-bottom: 10px;">
 </div>
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+<div style="text-align: center;">
   <img src="/KBlog.github.io/files/ASIA-FLUX2.PNG" alt="ASIA-FLUX2" style="width: 20%; margin-bottom: 10px;">
 </div>
 
