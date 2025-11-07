@@ -126,7 +126,7 @@ Through this program, I am gaining practical knowledge and skills that bridge th
 <p>Organized by: Dongshi Group, Dongguan, China (东实环境)<br>
 16 - 24 October 2023</p>
 <ul>
-  <li>Gained practical experience in pyrolysis carbonization technology, focusing on the co-pyrolysis of kitchen wasteand incinerator fly ash.</li>
+  <li>Gained practical experience in pyrolysis carbonization technology, specifically in the co-pyrolysis of kitchen waste and incinerator fly ash, working 12 hours per day for one week.</li>
   <li>Contributed to a process that thermally treated both waste types to produce biochar, a carbon-rich material that encapsulates harmful substances, reducing their environmental impact.</li>
   <li>Gained hands-on knowledge of the entire pyrolysis process, from preparation to biochar collection, and explored how waste can be converted into a valuable resource for environmental sustainability.</li>
 </ul>
