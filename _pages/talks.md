@@ -107,14 +107,22 @@ Through this program, I am gaining practical knowledge and skills that bridge th
 
 # Company Visits
 
-<h3>1. Visitor, Company Visit to Bravo Green Sdn. Bhd.</h3>
+<h3>1. Visitor, Company Visit to Shandong Lingong (SDLG) (山东临工)</h3>
+<p>9th  October 2025, Linyi, Shandong, China</p>
+<ul>
+  <li>Visited SDLG to observe their 智能制造 (smart manufacturing) operations, including advanced systems like AGVs, 5G + IoT-enabled production lines, and industrial automation, demonstrating how the company is transforming with AI, big data, and digitalization.</li>
+  <li>Explored the Lingong Intelligence (临工智能) division to understand how AI and automation drive efficiency and sustainability.</li>
+  <li>Gained insights into how SDLG’s smart manufacturing strategies—such as production automation, data-driven operations, and sustainable practices—can inform and inspire analogous approaches in biomass, biochar, and bio-based technology sectors that form the core of my academic and professional focus.</li>
+</ul>
+
+<h3>2. Visitor, Company Visit to Bravo Green Sdn. Bhd.</h3>
 <p>1st August 2025</p>
 <ul>
   <li>Visited Bravo Green Sdn. Bhd. to observe their carbonisation technology and production processes for manufacturing biochar and activated carbon from biomass residues, primarily oil palm (PKS) and coconut shell (PKS).</li>
   <li>Engaged in discussions on the current market dynamics for biochar and activated carbon, as well as the biomass market in Sarawak, gaining a deeper understanding of regional resource-triggered opportunities.</li>
 </ul>
 
-<h3>2. Visitor, Company Visit to Fujian Shuangheng Group (福建省双恒集团有限公司)</h3>
+<h3>3. Visitor, Company Visit to Fujian Shuangheng Group (福建省双恒集团有限公司)</h3>
 <p>5th September 2024, Yongchun County, Quanzhou, Fujian, China</p>
 <ul>
   <li>Visited Fujian Shuangheng Group, a company specializing in aluminium profiles and solar mounting systems, gaining insight into renewable energy supply chain infrastructure.</li>
