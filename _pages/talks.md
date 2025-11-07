@@ -42,6 +42,8 @@ author_profile: true
   <li>Participated in the Young Scientists Meeting for cultural exchange, engaging with participants from diverse backgrounds.</li>
   <li>Joined a field excursion to an Eucalyptus Plantation, observing the impact of sustainable practices on ecosystem health, carbon sequestration, and sustainable agriculture.</li>
 </ul>
+<p><a href="/KBlog.github.io/files/Presenter-Certificate-KahHoYeong.pdf" target="_blank">Presenter Certificate</a></p>
+<p><a href="/KBlog.github.io/files/Training-Courses-Certificate-KahHoYeong.pdf" target="_blank">Training Courses Certificate</a></p>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <img src="/KBlog.github.io/files/ASIAFLUX-1.png" alt="ASIAFLUX-1" style="width: 48%; margin-bottom: 10px;">
