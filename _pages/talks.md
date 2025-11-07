@@ -30,7 +30,16 @@ author_profile: true
 
 # Conferences & Discussions
 
-<h3>1. Presenter, Discussion on Green Hydrogen Energy Research</h3>
+<h3>1. Presenter, Meeting with STIDC on Biomass Research</h3>
+<p>Organized by: Sarawak Timber Industry Development Corporation (STIDC), Kuching, Sarawak<br>
+13th January 2025</p>
+<ul>
+  <li>Engaged with Sarawak Timber Industry Development Corporation (STIDC), a statutory body established in June 1973 to stimulate the expansion of wood based and forest resource industries in Sarawak.</li>
+  <li>Presented research on biomass and biochar conducted under the Institute of Urban Environment (IUE), University of Chinese Academy of Sciences (UCAS) in collaboration with the Alliance of Bioeconomy Community Development @ Borneo.</li>
+  <li>Shared insights into sustainable biomass recovery, valorisation strategies, and biochar applications in alignment with STIDC’s focus on green technology and circular economy.</li>
+</ul>
+
+<h3>2. Presenter, Discussion on Green Hydrogen Energy Research</h3>
 <p>Organized by: Xiamen University Tan Kah Kee Innovation Laboratory (厦门大学 嘉庚创新实验室), Xiamen, China</p>
 <p>6th September 2024</p>
 <ul>
@@ -38,7 +47,7 @@ author_profile: true
   <li>Explored the latest technological developments and industrial applications in hydrogen production, storage, and energy materials, gaining insight into the interdisciplinary strategies driving the transition to sustainable hydrogen energy systems.</li>
 </ul>
 
-<h3>2. Participant, Urban Science and Sustainability (USS) Conference</h3>
+<h3>3. Participant, Urban Science and Sustainability (USS) Conference</h3>
 <p>Organized by: Institute of Urban Environment (IUE), Chinese Academy of Sciences (CAS)<br>
 14th – 18th December 2023</p>
 <ul>
