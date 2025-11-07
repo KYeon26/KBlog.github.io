@@ -47,7 +47,17 @@ author_profile: true
   <li>Explored the latest technological developments and industrial applications in hydrogen production, storage, and energy materials, gaining insight into the interdisciplinary strategies driving the transition to sustainable hydrogen energy systems.</li>
 </ul>
 
-<h3>2. Participant, Urban Science and Sustainability (USS) Conference</h3>
+<h3>3. Participant, Discussion on Biomass Valorisation</h3>
+<p>Organized by: Malaysian Palm Oil Board (MPOB)<br>
+29th August 2024</p>
+<ul>
+  <li>Participated in a discussion with the Malaysian Palm Oil Board (MPOB) and the Malaysia Biomass Industries Confederation (MBIC) on behalf of the Alliance of Bioeconomy Community Development @ Borneo (ABCD)and the Institute of Urban Environment (IUE), University of Chinese Academy of Sciences (UCAS).</li>
+  <li>Contributed to a pilot study on the utilisation of oil palm and sago biomass at Ladang Penor, exploring methods to convert agricultural agricultural residues into value-added bio-products and sustainable energy resources.</li>
+  <li>Investigated opportunities for biomass recovery, process optimisation, and the integration of the circular economy within oil palm and sago plantations.</li>
+  <li>Gained practical insights into biomass management, stakeholder collaboration, and the challenges of scaling biomass technologies in the Malaysian plantation sector.</li>
+</ul>
+
+<h3>4. Participant, Urban Science and Sustainability (USS) Conference</h3>
 <p>Organized by: Institute of Urban Environment (IUE), Chinese Academy of Sciences (CAS)<br>
 14th – 18th December 2023</p>
 <ul>
@@ -55,16 +65,6 @@ author_profile: true
   <li>Engaged with leading experts in urban science, sustainability science, and sustainable urban system modeling, exchanging ideas on the future of sustainable urbanization.</li>
   <li>Participated in discussions on groundbreaking solutions for sustainable development, learning from world-renowned experts and contributing to collaborative efforts aimed at shaping the future of urban environments.</li>
   <li>The conference built on the success of the USS online lecture series, which has attracted over 30 experts and thousands of participants worldwide, fostering an international platform for knowledge sharing and innovation in urban sustainability.</li>
-</ul>
-
-<h3>3. Participant, Discussion on Biomass Valorisation</h3>
-<p>Organized by: Malaysian Palm Oil Board (MPOB)<br>
-29th August 2024</p>
-<ul>
-  <li>Participated in a discussion with the Malaysian Palm Oil Board (MPOB) and the Malaysia Biomass Industries Confederation (MBIC) on behalf of the Alliance of Bioeconomy Community Development @ Borneo (ABCD)and the Institute of Urban Environment (IUE), University of Chinese Academy of Sciences (UCAS).</li>
-  <li>Contributed to a pilot study on the utilisation of oil palm and sago biomass at Ladang Penor, exploring methods to convert agricultural residues into value-added bio-products and sustainable energy resources.</li>
-  <li>Investigated opportunities for biomass recovery, process optimisation, and the integration of the circular economy within oil palm and sago plantations.</li>
-  <li>Gained practical insights into biomass management, stakeholder collaboration, and the challenges of scaling biomass technologies in the Malaysian plantation sector.</li>
 </ul>
 
 <hr>
