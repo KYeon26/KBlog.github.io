@@ -131,6 +131,19 @@ Through this program, I am gaining practical knowledge and skills that bridge th
   <li>Gained hands-on knowledge of the entire pyrolysis process, from preparation to biochar collection, and explored how waste can be converted into a valuable resource for environmental sustainability.</li>
 </ul>
 
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="/KBlog.github.io/files/DS-1.JPG" alt="DS-1" style="width: 48%; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/DS-2.jpeg" alt="DS-2" style="width: 48%; margin-bottom: 10px;">
+</div>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="/KBlog.github.io/files/DS-3.jpeg" alt="DS-3" style="width: 48%; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/DS-4.JPG" alt="DS-4" style="width: 48%; margin-bottom: 10px;">
+</div>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="/KBlog.github.io/files/DS-5.jpg" alt="DS-5" style="width: 48%; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/DS-6.JPG" alt="DS-6" style="width: 48%; margin-bottom: 10px;">
+</div>
+
 <h3>3. Participant, 2021 ASEAN Training Course</h3>
 <p>Organized by: Institute of Urban Environment, Chinese Academy of Sciences<br>
 15 - 28 November 2021</p>
