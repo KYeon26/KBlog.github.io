@@ -30,7 +30,16 @@ author_profile: true
 
 # Conferences & Discussions
 
-<h3>1. Presenter, Meeting with STIDC on Biomass Research</h3>
+<h3>1. Poster Presenter, AsiaFlux Conference 2025</h3>
+<p>20th – 25th October 2025, Pangkalan Kerinci, Riau, Indonesia</p>
+<ul>
+  <li>Presented a poster at the AsiaFlux Conference 2025, focusing on the role of sustainable practices in enhancing soil health, improving carbon sequestration, and contributing to circular economy solutions.</li>
+  <li>Attended training sessions targeting capacity-building for early career researchers and practitioners in environmental sustainability and ecosystem restoration techniques.</li>
+  <li>Participated in the Young Scientists Meeting for cultural exchange, engaging with participants from diverse backgrounds.</li>
+  <li>Joined a field excursion to an Eucalyptus Plantation, observing the impact of sustainable practices on ecosystem health, carbon sequestration, and sustainable agriculture.</li>
+</ul>
+
+<h3>2. Presenter, Meeting with STIDC on Biomass Research</h3>
 <p>Organized by: Sarawak Timber Industry Development Corporation (STIDC), Kuching, Sarawak<br>
 13th January 2025</p>
 <ul>
@@ -39,7 +48,7 @@ author_profile: true
   <li>Shared insights into sustainable biomass recovery, valorisation strategies, and biochar applications in alignment with STIDC’s focus on green technology and circular economy.</li>
 </ul>
 
-<h3>2. Presenter, Discussion on Green Hydrogen Energy Research</h3>
+<h3>3. Presenter, Discussion on Green Hydrogen Energy Research</h3>
 <p>Organized by: Xiamen University Tan Kah Kee Innovation Laboratory (厦门大学 嘉庚创新实验室), Xiamen, China</p>
 <p>6th September 2024</p>
 <ul>
@@ -47,17 +56,17 @@ author_profile: true
   <li>Explored the latest technological developments and industrial applications in hydrogen production, storage, and energy materials, gaining insight into the interdisciplinary strategies driving the transition to sustainable hydrogen energy systems.</li>
 </ul>
 
-<h3>3. Participant, Discussion on Biomass Valorisation</h3>
+<h3>4. Participant, Discussion on Biomass Valorisation</h3>
 <p>Organized by: Malaysian Palm Oil Board (MPOB)<br>
 29th August 2024</p>
 <ul>
   <li>Participated in a discussion with the Malaysian Palm Oil Board (MPOB) and the Malaysia Biomass Industries Confederation (MBIC) on behalf of the Alliance of Bioeconomy Community Development @ Borneo (ABCD)and the Institute of Urban Environment (IUE), University of Chinese Academy of Sciences (UCAS).</li>
-  <li>Contributed to a pilot study on the utilisation of oil palm and sago biomass at Ladang Penor, exploring methods to convert agricultural agricultural residues into value-added bio-products and sustainable energy resources.</li>
+  <li>Contributed to a pilot study on the utilisation of oil palm and sago biomass at Ladang Penor, exploring methods to convert agricultural residues into value-added bio-products and sustainable energy resources.</li>
   <li>Investigated opportunities for biomass recovery, process optimisation, and the integration of the circular economy within oil palm and sago plantations.</li>
   <li>Gained practical insights into biomass management, stakeholder collaboration, and the challenges of scaling biomass technologies in the Malaysian plantation sector.</li>
 </ul>
 
-<h3>4. Participant, Urban Science and Sustainability (USS) Conference</h3>
+<h3>5. Participant, Urban Science and Sustainability (USS) Conference</h3>
 <p>Organized by: Institute of Urban Environment (IUE), Chinese Academy of Sciences (CAS)<br>
 14th – 18th December 2023</p>
 <ul>
