@@ -30,7 +30,8 @@ author_profile: true
 
 # Conferences & Discussions
 
-<h3>1. Presenter, Xiamen University Tan Kah Kee Innovation Laboratory (厦门大学 嘉庚创新实验室), Xiamen, China</h3>
+<h3>1. Presenter, Discussion on Green Hydrogen Energy Research</h3>
+<p>Organized by: Xiamen University Tan Kah Kee Innovation Laboratory (厦门大学 嘉庚创新实验室), Xiamen, China</p>
 <p>6th September 2024</p>
 <ul>
   <li>Engaged in a focused discussion on green hydrogen energy research, hosted by the renowned Tan Kah Kee Innovation Laboratory, a high level national innovation platform dedicated to cutting edge energy materials, low carbon systems, and industrial transformation.</li>
