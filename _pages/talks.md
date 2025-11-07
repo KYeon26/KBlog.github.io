@@ -44,10 +44,10 @@ author_profile: true
 </ul>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <img src="/KBlog.github.io/files/ASIAFLUX-1.png" alt="ASIAFLUX-1" style="width: 48%; margin-bottom: 10px;">
-  <img src="/KBlog.github.io/files/ASIA-FLUX2.PNG" alt="ASIA-FLUX2" style="width: 48%; margin-bottom: 10px;">
-  <img src="/KBlog.github.io/files/ASIAFLUX-3.jpeg" alt="ASIAFLUX-3" style="width: 48%;">
-  <img src="/KBlog.github.io/files/ASIAFLUX-4.JPG" alt="ASIAFLUX-4" style="width: 48%;">
+  <img src="/KBlog.github.io/files/ASIAFLUX-1.png" alt="ASIAFLUX-1" style="width: 48%; height: 200px; object-fit: cover; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/ASIA-FLUX2.PNG" alt="ASIA-FLUX2" style="width: 48%; height: 200px; object-fit: cover; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/ASIAFLUX-3.jpeg" alt="ASIAFLUX-3" style="width: 48%; height: 200px; object-fit: cover; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/ASIAFLUX-4.JPG" alt="ASIAFLUX-4" style="width: 48%; height: 200px; object-fit: cover;">
 </div>
 
 <h3>2. Presenter, Meeting with STIDC on Biomass Research</h3>
