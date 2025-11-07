@@ -180,16 +180,16 @@ Through this program, I am gaining practical knowledge and skills that bridge th
   <img src="/KBlog.github.io/files/SD-5.jpeg" alt="SD-5" style="width: 48%; margin-bottom: 10px;">
 </div>
 
-<h3>2. Visitor, Company Visit to Bravo Green Sdn. Bhd.</h3>
-<p>1st August 2024</p>
-<ul>
-  <li>Visited Bravo Green Sdn. Bhd. to observe their carbonisation technology and production processes for manufacturing biochar and activated carbon from biomass residues, primarily oil palm (PKS) and coconut shell (PKS).</li>
-  <li>Engaged in discussions on the current market dynamics for biochar and activated carbon, as well as the biomass market in Sarawak, gaining a deeper understanding of regional resource-triggered opportunities.</li>
-</ul>
-
-<h3>3. Visitor, Company Visit to Fujian Shuangheng Group (福建省双恒集团有限公司)</h3>
+<h3>2. Visitor, Company Visit to Fujian Shuangheng Group (福建省双恒集团有限公司)</h3>
 <p>5th September 2024, Yongchun County, Quanzhou, Fujian, China</p>
 <ul>
   <li>Visited Fujian Shuangheng Group, a company specializing in aluminium profiles and solar mounting systems, gaining insight into renewable energy supply chain infrastructure.</li>
   <li>Observed how solar mounting systems contribute to sustainable energy deployment, which aligns with my professional focus on environmental sustainability, clean technologies, and circular economy solutions.</li>
+</ul>
+
+<h3>3. Visitor, Company Visit to Bravo Green Sdn. Bhd.</h3>
+<p>1st August 2024</p>
+<ul>
+  <li>Visited Bravo Green Sdn. Bhd. to observe their carbonisation technology and production processes for manufacturing biochar and activated carbon from biomass residues, primarily oil palm (PKS) and coconut shell (PKS).</li>
+  <li>Engaged in discussions on the current market dynamics for biochar and activated carbon, as well as the biomass market in Sarawak, gaining a deeper understanding of regional resource-triggered opportunities.</li>
 </ul>
