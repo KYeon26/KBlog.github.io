@@ -62,6 +62,8 @@ author_profile: true
   <li>Shared insights into sustainable biomass recovery, valorisation strategies, and biochar applications in alignment with STIDC’s focus on green technology and circular economy.</li>
 </ul>
 
+<img src="/KBlog.github.io/files/STIDC.JPG" alt="STIDC" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
+
 <h3>3. Presenter, Discussion on Green Hydrogen Energy Research</h3>
 <p>Organized by: Xiamen University Tan Kah Kee Innovation Laboratory (厦门大学 嘉庚创新实验室), Xiamen, China</p>
 <p>6th September 2024</p>
