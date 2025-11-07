@@ -72,6 +72,11 @@ author_profile: true
   <li>Explored the latest technological developments and industrial applications in hydrogen production, storage, and energy materials, gaining insight into the interdisciplinary strategies driving the transition to sustainable hydrogen energy systems.</li>
 </ul>
 
+<div style="display: flex; justify-content: space-between;">
+  <img src="/KBlog.github.io/files/JG-2.jpeg" alt="JG-2" style="width: 48%;">
+  <img src="/KBlog.github.io/files/JG-3.jpeg" alt="JG-3" style="width: 48%;">
+</div>
+
 <h3>4. Participant, Discussion on Biomass Valorisation</h3>
 <p>Organized by: Malaysian Palm Oil Board (MPOB)<br>
 29th August 2024</p>
