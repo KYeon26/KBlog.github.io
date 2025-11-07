@@ -43,6 +43,13 @@ author_profile: true
   <li>Joined a field excursion to an Eucalyptus Plantation, observing the impact of sustainable practices on ecosystem health, carbon sequestration, and sustainable agriculture.</li>
 </ul>
 
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="/KBlog.github.io/files/ASIAFLUX-1.png" alt="ASIAFLUX-1" style="width: 48%; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/ASIA-FLUX2.PNG" alt="ASIA-FLUX2" style="width: 48%; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/ASIAFLUX-3.jpeg" alt="ASIAFLUX-3" style="width: 48%;">
+  <img src="/KBlog.github.io/files/ASIAFLUX-4.JPG" alt="ASIAFLUX-4" style="width: 48%;">
+</div>
+
 <h3>2. Presenter, Meeting with STIDC on Biomass Research</h3>
 <p>Organized by: Sarawak Timber Industry Development Corporation (STIDC), Kuching, Sarawak<br>
 13th January 2025</p>
