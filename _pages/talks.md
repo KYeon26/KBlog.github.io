@@ -175,8 +175,9 @@ Through this program, I am gaining practical knowledge and skills that bridge th
   <img src="/KBlog.github.io/files/SD-3.jpeg" alt="SD-3" style="width: 48%; margin-bottom: 10px;">
   <img src="/KBlog.github.io/files/SD-4.jpeg" alt="SD-4" style="width: 48%; margin-bottom: 10px;">
 </div>
-<div style="text-align: center;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <img src="/KBlog.github.io/files/SD-5.jpeg" alt="SD-5" style="width: 48%; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/SD-6.JPG" alt="SD-6" style="width: 48%; margin-bottom: 10px;">
 </div>
 
 <h3>2. Visitor, Company Visit to Fujian Shuangheng Group (福建省双恒集团有限公司)</h3>
