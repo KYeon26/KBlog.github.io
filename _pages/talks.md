@@ -87,6 +87,13 @@ author_profile: true
   <li>Gained practical insights into biomass management, stakeholder collaboration, and the challenges of scaling biomass technologies in the Malaysian plantation sector.</li>
 </ul>
 
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="/KBlog.github.io/files/MPOB-1.png" alt="MPOB-1" style="width: 48%; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/MPOB-2.png" alt="MPOB-2" style="width: 48%; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/MPOB-3.JPG" alt="MPOB-3" style="width: 48%; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/MPOB-4.JPG" alt="MPOB-4" style="width: 48%; margin-bottom: 10px;">
+</div>
+
 <h3>5. Participant, Urban Science and Sustainability (USS) Conference</h3>
 <p>Organized by: Institute of Urban Environment (IUE), Chinese Academy of Sciences (CAS)<br>
 14th – 18th December 2023</p>
