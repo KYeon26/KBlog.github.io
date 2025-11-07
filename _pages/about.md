@@ -15,7 +15,7 @@ After finishing school, I moved to Kuching, Sarawak, Malaysia, where I pursued a
 
 <img src="/KBlog.github.io/assets/images/Signing-Ceremony.JPG" alt="Research Assistant" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 
-<h3>2. Research Assistant (2023 – 2025)</h3>
+<h3>1. Research Assistant (2023 – 2025)</h3>
 <p>Institute of Urban Environment - Xiamen, China</p>
 
 <p>Project: Technology Research & Development and Application Demonstration for Sustainable Development of Biomass Waste Resources in Southeast Asian Countries (Project ID: ANSO-CR-KP-2021-08).</p>
@@ -24,7 +24,7 @@ After finishing school, I moved to Kuching, Sarawak, Malaysia, where I pursued a
 
 <img src="/KBlog.github.io/assets/images/Pic-4.JPG" alt="Pic-4" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 
-<h3>1. Product Development Executive (2022)</h3>
+<h3>2. Product Development Executive (2022)</h3>
 <p>Soon Soon Oilmills Sdn. Bhd. - Penang, Malaysia</p>
 
 <p>Led trend analysis and competitive research to identify niche markets for organic products, developing innovative products like Chickpea Spread for commercialization.</p>
