@@ -106,3 +106,10 @@ Through this program, I am gaining practical knowledge and skills that bridge th
 <hr>
 
 # Company Visits
+
+<h3>1. Visitor, Company Visit to Fujian Shuangheng Group (福建省双恒集团有限公司)</h3>
+<p>5th September 2024, Yongchun County, Quanzhou, Fujian, China</p>
+<ul>
+  <li>Visited Fujian Shuangheng Group, a company specializing in aluminium profiles and solar mounting systems, gaining insight into renewable energy supply chain infrastructure.</li>
+  <li>Observed how solar mounting systems contribute to sustainable energy deployment, which aligns with my professional focus on environmental sustainability, clean technologies, and circular economy solutions.</li>
+</ul>
