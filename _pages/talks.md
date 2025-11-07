@@ -168,6 +168,18 @@ Through this program, I am gaining practical knowledge and skills that bridge th
   <li>Gained insights into how SDLG’s smart manufacturing strategies—such as production automation, data-driven operations, and sustainable practices—can inform and inspire analogous approaches in biomass, biochar, and bio-based technology sectors that form the core of my academic and professional focus.</li>
 </ul>
 
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="/KBlog.github.io/files/SD-1.jpeg" alt="SD-1" style="width: 48%; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/SD-2.jpeg" alt="SD-2" style="width: 48%; margin-bottom: 10px;">
+</div>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="/KBlog.github.io/files/SD-3.jpeg" alt="SD-3" style="width: 48%; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/SD-4.jpeg" alt="SD-4" style="width: 48%; margin-bottom: 10px;">
+</div>
+<div style="text-align: center;">
+  <img src="/KBlog.github.io/files/SD-5.jpeg" alt="SD-5" style="width: 48%; margin-bottom: 10px;">
+</div>
+
 <h3>2. Visitor, Company Visit to Bravo Green Sdn. Bhd.</h3>
 <p>1st August 2025</p>
 <ul>
