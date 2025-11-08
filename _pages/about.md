@@ -7,7 +7,7 @@ author_profile: true
 
 <img src="/KBlog.github.io/assets/images/Pic-1.PNG" alt="Pic-1" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 
-This is me. I was born in Ipoh, Perak, Malaysia, where I spent my childhood and completed my primary education at SJK(C) Gunning Rapat and my secondary education at Poi Lam High School (SUWA). Growing up in this vibrant town sparked my curiosity about science and the world around me, laying the foundation for everything that followed.
+This is me. I was born in Ipoh, Perak, Malaysia, where I spent my childhood and completed my primary education at SJK(C) Gunong Rapat and my secondary education at Poi Lam High School (SUWA). Growing up in this vibrant town sparked my curiosity about science and the world around me, laying the foundation for everything that followed.
 
 <img src="/KBlog.github.io/assets/images/Pic-3.JPG" alt="Pic-3" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
 
