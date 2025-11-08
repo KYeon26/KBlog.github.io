@@ -13,6 +13,8 @@ This is me. I was born in Ipoh, Perak, Malaysia, where I spent my childhood and 
 
 After finishing school, I moved to Kuching, Sarawak, Malaysia, where I pursued a Bachelor’s degree in Biotechnology at Swinburne University of Technology. I graduated with honors, achieving a CGPA of 3.71. This was a significant chapter of my life, where I began to truly delve into the world of science and research, expanding my knowledge and skills. During this time, I met many friends and lovely lecturers, with whom I still keep in contact. Among them, I met Dr. Daniel Tan Lee Tung, my FYP supervisor, who encouraged me to pursue my Master’s studies, leading to the next chapter of my academic journey. He also became my co-supervisor during my Master’s study.
 
+<img src="/KBlog.github.io/assets/images/Pic-3.JPG" alt="Pic-3" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
+
 
 
 
