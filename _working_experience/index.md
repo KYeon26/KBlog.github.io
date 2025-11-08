@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive
 title: "My Experience"
 permalink: /working_experience/
 author_profile: true
@@ -7,7 +7,7 @@ share: false
 comment: false
 ---
 
-### 1. Research Assistant (2023 – 2025)
+## 1. Research Assistant (2023 – 2025)
 
 **Institute of Urban Environment - Xiamen, China**
 
@@ -18,7 +18,9 @@ comment: false
 
 <img src="/KBlog.github.io/assets/images/Signing-Ceremony.JPG" alt="Signing Ceremony" style="width: 80%; display: block; margin-left: auto; margin-right: auto;">
 
-### 2. Product Development Executive (2022)
+---
+
+## 2. Product Development Executive (2022)
 **Soon Soon Oilmills Sdn. Bhd. - Penang, Malaysia**
 <ul style="text-align: justify;">
   <li>Led trend analysis and competitive research to identify niche markets for organic products, developing innovative products like Chickpea Spread for commercialization.</li>
