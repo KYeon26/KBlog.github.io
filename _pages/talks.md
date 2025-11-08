@@ -153,7 +153,7 @@ Organized by: International College of UCAS in partnership with the Alliance of 
 <ul>
   <li>Attended a five-day international forum focused on interdisciplinary research, exploring fields like life & health, ecological environment, and advanced materials, and delved into the intersection of environmental science, sustainable development, and innovation.</li>
   <li>Participated in laboratory visits to the Taiji Laboratory, Environmental Laboratory, and Systems Health Laboratory, while engaging in cross-cultural exchanges to broaden my understanding of global science frameworks and multi-disciplinary problem-solving.</li>
-  <li>Gained valuable perspectives on how the integration of science and education, alongside collaboration across disciplines, can accelerate sustainable solutions, directly aligning with my focus on biomass valorisation, biochar production, and environmental technology.
+  <li>Gained valuable perspectives on how the integration of science and education, alongside collaboration across disciplines, can accelerate sustainable solutions, directly aligning with my focus on biomass valorisation, biochar production, and environmental technology. (<a href="/KBlog.github.io/files/Spring-school-2023.pdf" target="_blank">Certificate</a>)
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <img src="/KBlog.github.io/files/11.JPG" alt="11" style="width: 48%; margin-bottom: 10px;">
