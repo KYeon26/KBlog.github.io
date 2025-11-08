@@ -119,14 +119,14 @@ author_profile: true
 # Training & Workshops
 
 <h3>1. Participant, BioAgrotech and Biopharmaceutical Employability and Entrepreneurship Specialised Training (BeST 2.0) Intake 3</h3>
-<p>1 October 2024 – 31 March 2025</p>
+<p>1st October 2024 – 31st March 2025</p>
 <p>The BeST 2.0 program, organized by MOSTI Malaysia, aims to enhance employability and foster entrepreneurship within the bioagrotech and biopharmaceutical sectors. The program provides specialized training in biotechnology, agribiotechnology, and biopharmaceuticals, with a focus on both technical and soft skills development. Participants gain hands-on experience in areas like product development, microbial work, and bioprocessing, while also being exposed to emerging technologies and industry trends.<br>
 Through this program, I am gaining practical knowledge and skills that bridge the gap between academic learning and real-world applications. I am developing leadership, communication, and teamwork skills while gaining valuable insights into the industry. The on-the-job training aspect further enhances my understanding, preparing me for future opportunities in these rapidly evolving fields</p>
 <p><a href="/KBlog.github.io/files/BBA.pdf" target="_blank">Certificate</a></p>
 
 <h3>2. Participant, Dongguan Pyrolysis Carbonization Pilot Project</h3>
-<p>Organized by: Dongshi Group, Dongguan, China (东实环境)<br>
-16 - 24 October 2023</p>
+<p>Organized by: Dongshi Group, Dongguan, China (东实环境)</p>
+<p>16th - 24th October 2023</p>
 <ul>
   <li>Gained practical experience in pyrolysis carbonization technology, specifically in the co-pyrolysis of kitchen waste and incinerator fly ash, working 12 hours per day for one week.</li>
   <li>Contributed to a process that thermally treated both waste types to produce biochar, a carbon-rich material that encapsulates harmful substances, reducing their environmental impact.</li>
@@ -147,9 +147,9 @@ Through this program, I am gaining practical knowledge and skills that bridge th
 </div>
 
 <h3>3. Participant, Spring School on Frontier and Interdisciplinary Sciences for Overseas Students</h3>
-<p>Hangzhou Institute for Advanced Study (HIAS), UCAS, Hangzhou, China<br>
-15 May 2023 – 19 May 2023<br>
-Organized by: International College of UCAS in partnership with the Alliance of International Science Organizations (ANSO)</p>
+<p>Hangzhou Institute for Advanced Study (HIAS), UCAS, Hangzhou, China</p>
+<p>15th May 2023 – 19th May 2023</p>
+<p>Organized by: International College of UCAS in partnership with the Alliance of International Science Organizations (ANSO)</p>
 <ul>
   <li>Attended a five-day international forum focused on interdisciplinary research, exploring fields like life & health, ecological environment, and advanced materials, and delved into the intersection of environmental science, sustainable development, and innovation.</li>
   <li>Participated in laboratory visits to the Taiji Laboratory, Environmental Laboratory, and Systems Health Laboratory, while engaging in cross-cultural exchanges to broaden my understanding of global science frameworks and multi-disciplinary problem-solving.</li>
@@ -165,8 +165,8 @@ Organized by: International College of UCAS in partnership with the Alliance of 
 </ul>
 
 <h3>4. Participant, 2021 ASEAN Training Course</h3>
-<p>Organized by: Institute of Urban Environment, Chinese Academy of Sciences<br>
-15 - 28 November 2021</p>
+<p>Organized by: Institute of Urban Environment, Chinese Academy of Sciences</p>
+<p>15th - 28th November 2021</p>
 <ul>
   <li>Attended a two-week training program focused on "Valorization Utilization Technology and Industrial Application of Biomass Wastes in the ASEAN Region."</li>
   <li>Gained comprehensive knowledge of biomass waste utilization technologies, addressing key challenges and exploring industrial applications within the ASEAN region.</li>
