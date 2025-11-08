@@ -146,7 +146,17 @@ Through this program, I am gaining practical knowledge and skills that bridge th
   <img src="/KBlog.github.io/files/DS-6.JPG" alt="DS-6" style="width: 48%; margin-bottom: 10px;">
 </div>
 
-<h3>3. Participant, 2021 ASEAN Training Course</h3>
+<h3>3. Participant, Spring School on Frontier and Interdisciplinary Sciences for Overseas Students</h3>
+<p>Hangzhou Institute for Advanced Study (HIAS), UCAS, Hangzhou, China<br>
+15 May 2023 – 19 May 2023<br>
+Organized by: International College of UCAS in partnership with the Alliance of International Science Organizations (ANSO)</p>
+<ul>
+  <li>Attended a five-day international forum focused on interdisciplinary research, exploring fields like life & health, ecological environment, and advanced materials, and delved into the intersection of environmental science, sustainable development, and innovation.</li>
+  <li>Participated in laboratory visits to the Taiji Laboratory, Environmental Laboratory, and Systems Health Laboratory, while engaging in cross-cultural exchanges to broaden my understanding of global science frameworks and multi-disciplinary problem-solving.</li>
+  <li>Gained valuable perspectives on how the integration of science and education, alongside collaboration across disciplines, can accelerate sustainable solutions, directly aligning with my focus on biomass valorisation, biochar production, and environmental technology.</li>
+</ul>
+
+<h3>4. Participant, 2021 ASEAN Training Course</h3>
 <p>Organized by: Institute of Urban Environment, Chinese Academy of Sciences<br>
 15 - 28 November 2021</p>
 <ul>
