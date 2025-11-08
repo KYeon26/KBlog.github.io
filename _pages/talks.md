@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <style>
-  p {
+  p, li {
     text-align: justify;
   }
 </style>
