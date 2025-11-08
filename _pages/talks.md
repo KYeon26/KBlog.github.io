@@ -83,7 +83,7 @@ author_profile: true
 <p>Organized by: Malaysian Palm Oil Board (MPOB)</p>
 <p>29th August 2024</p>
 <ul>
-  <li>Participated in a discussion with the Malaysian Palm Oil Board (MPOB) and the Malaysia Biomass Industries Confederation (MBIC) on behalf of the Alliance of Bioeconomy Community Development @ Borneo (ABCD)and the Institute of Urban Environment (IUE), University of Chinese Academy of Sciences (UCAS).</li>
+  <li>Participated in a discussion with the Malaysian Palm Oil Board (MPOB) and the Malaysia Biomass Industries Confederation (MBIC) on behalf of the Alliance of Bioeconomy Community Development @ Borneo (ABCD) and the Institute of Urban Environment (IUE), University of Chinese Academy of Sciences (UCAS).</li>
   <li>Contributed to a pilot study on the utilisation of oil palm and sago biomass at Ladang Penor, exploring methods to convert agricultural residues into value-added bio-products and sustainable energy resources.</li>
   <li>Investigated opportunities for biomass recovery, process optimisation, and the integration of the circular economy within oil palm and sago plantations.</li>
   <li>Gained practical insights into biomass management, stakeholder collaboration, and the challenges of scaling biomass technologies in the Malaysian plantation sector.</li>
