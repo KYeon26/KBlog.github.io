@@ -40,7 +40,7 @@ author_profile: true
   <li>Presented a poster at the AsiaFlux Conference 2025, focusing on the role of sustainable practices in enhancing soil health, improving carbon sequestration, and contributing to circular economy solutions.</li>
   <li>Attended training sessions targeting capacity-building for early career researchers and practitioners in environmental sustainability and ecosystem restoration techniques.</li>
   <li>Participated in the Young Scientists Meeting for cultural exchange, engaging with participants from diverse backgrounds.</li>
-  <li>Joined a field excursion to an Eucalyptus Plantation, observing the impact of sustainable practices on ecosystem health, carbon sequestration, and sustainable agriculture.</li>
+  <li>Joined a field excursion to an <em>Eucalyptus</em> Plantation, observing the impact of sustainable practices on ecosystem health, carbon sequestration, and sustainable agriculture.</li>
 </ul>
 <p><a href="/KBlog.github.io/files/Presenter-Certificate-KahHoYeong.pdf" target="_blank">Presenter Certificate</a></p>
 <p><a href="/KBlog.github.io/files/Training-Courses-Certificate-KahHoYeong.pdf" target="_blank">Training Courses Certificate</a></p>
@@ -56,8 +56,8 @@ author_profile: true
 </div>
 
 <h3>2. Presenter, Meeting with STIDC on Biomass Research</h3>
-<p>Organized by: Sarawak Timber Industry Development Corporation (STIDC), Kuching, Sarawak<br>
-13th January 2025</p>
+<p>Organized by: Sarawak Timber Industry Development Corporation (STIDC), Kuching, Sarawak</p>
+<p>13th January 2025</p>
 <ul>
   <li>Engaged with Sarawak Timber Industry Development Corporation (STIDC), a statutory body established in June 1973 to stimulate the expansion of wood based and forest resource industries in Sarawak.</li>
   <li>Presented research on biomass and biochar conducted under the Institute of Urban Environment (IUE), University of Chinese Academy of Sciences (UCAS) in collaboration with the Alliance of Bioeconomy Community Development @ Borneo.</li>
@@ -80,8 +80,8 @@ author_profile: true
 </div>
 
 <h3>4. Participant, Discussion on Biomass Valorisation</h3>
-<p>Organized by: Malaysian Palm Oil Board (MPOB)<br>
-29th August 2024</p>
+<p>Organized by: Malaysian Palm Oil Board (MPOB)</p>
+<p>29th August 2024</p>
 <ul>
   <li>Participated in a discussion with the Malaysian Palm Oil Board (MPOB) and the Malaysia Biomass Industries Confederation (MBIC) on behalf of the Alliance of Bioeconomy Community Development @ Borneo (ABCD)and the Institute of Urban Environment (IUE), University of Chinese Academy of Sciences (UCAS).</li>
   <li>Contributed to a pilot study on the utilisation of oil palm and sago biomass at Ladang Penor, exploring methods to convert agricultural residues into value-added bio-products and sustainable energy resources.</li>
