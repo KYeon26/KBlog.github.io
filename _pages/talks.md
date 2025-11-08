@@ -120,8 +120,9 @@ author_profile: true
 
 <h3>1. Participant, BioAgrotech and Biopharmaceutical Employability and Entrepreneurship Specialised Training (BeST 2.0) Intake 3</h3>
 <p>1st October 2024 – 31st March 2025</p>
-<p>The BeST 2.0 program, organized by MOSTI Malaysia, aims to enhance employability and foster entrepreneurship within the bioagrotech and biopharmaceutical sectors. The program provides specialized training in biotechnology, agribiotechnology, and biopharmaceuticals, with a focus on both technical and soft skills development. Participants gain hands-on experience in areas like product development, microbial work, and bioprocessing, while also being exposed to emerging technologies and industry trends.<br>
-Through this program, I am gaining practical knowledge and skills that bridge the gap between academic learning and real-world applications. I am developing leadership, communication, and teamwork skills while gaining valuable insights into the industry. The on-the-job training aspect further enhances my understanding, preparing me for future opportunities in these rapidly evolving fields</p>
+<p>The BeST 2.0 program, organized by MOSTI Malaysia, aims to enhance employability and foster entrepreneurship within the bioagrotech and biopharmaceutical sectors. The program provides specialized training in biotechnology, agribiotechnology, and biopharmaceuticals, with a focus on both technical and soft skills development. Participants gain hands-on experience in areas like product development, microbial work, and bioprocessing, while also being exposed to emerging technologies and industry trends.</p>
+
+<p>Through this program, I am gaining practical knowledge and skills that bridge the gap between academic learning and real-world applications. I am developing leadership, communication, and teamwork skills while gaining valuable insights into the industry. The on-the-job training aspect further enhances my understanding, preparing me for future opportunities in these rapidly evolving fields.</p>
 <p><a href="/KBlog.github.io/files/BBA.pdf" target="_blank">Certificate</a></p>
 
 <h3>2. Participant, Dongguan Pyrolysis Carbonization Pilot Project</h3>
