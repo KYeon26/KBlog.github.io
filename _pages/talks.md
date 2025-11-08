@@ -106,7 +106,7 @@ author_profile: true
   <li>The conference built on the success of the USS online lecture series, which has attracted over 30 experts and thousands of participants worldwide, fostering an international platform for knowledge sharing and innovation in urban sustainability.</li>
 </ul>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <img src="/KBlog.github.io/files/USS-1.JPG" alt="USS-1" style="width: 35%; margin-bottom: 10px;">
   <img src="/KBlog.github.io/files/USS-2.JPG" alt="USS-2" style="width: 35%; margin-bottom: 10px;">
 </div>
@@ -134,17 +134,17 @@ author_profile: true
   <li>Gained hands-on knowledge of the entire pyrolysis process, from preparation to biochar collection, and explored how waste can be converted into a valuable resource for environmental sustainability.</li>
 </ul>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <img src="/KBlog.github.io/files/DS-1.JPG" alt="DS-1" style="width: 35%; margin-bottom: 10px;">
   <img src="/KBlog.github.io/files/DS-2.jpeg" alt="DS-2" style="width: 35%; margin-bottom: 10px;">
 </div>
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <img src="/KBlog.github.io/files/DS-3.jpeg" alt="DS-3" style="width: 35%; margin-bottom: 10px;">
   <img src="/KBlog.github.io/files/DS-4.JPG" alt="DS-4" style="width: 35%; margin-bottom: 10px;">
 </div>
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <img src="/KBlog.github.io/files/DS-5.jpg" alt="DS-5" style="width: 48%; margin-bottom: 10px;">
-  <img src="/KBlog.github.io/files/DS-6.JPG" alt="DS-6" style="width: 48%; margin-bottom: 10px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img src="/KBlog.github.io/files/5.jpg" alt="5" style="width: 35%; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/6.jpg" alt="6" style="width: 35%; margin-bottom: 10px;">
 </div>
 
 <h3>3. Participant, Spring School on Frontier and Interdisciplinary Sciences for Overseas Students</h3>
@@ -187,7 +187,7 @@ author_profile: true
   <li>Gained insights into how SDLG’s smart manufacturing strategies—such as production automation, data-driven operations, and sustainable practices—can inform and inspire analogous approaches in biomass, biochar, and bio-based technology sectors that form the core of my academic and professional focus.</li>
 </ul>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <img src="/KBlog.github.io/files/SD-1.jpeg" alt="SD-1" style="width: 35%; margin-bottom: 10px;">
   <img src="/KBlog.github.io/files/SD-2.jpeg" alt="SD-2" style="width: 35%; margin-bottom: 10px;">
 </div>
@@ -206,13 +206,9 @@ author_profile: true
   <li>Visited Fujian Shuangheng Group, a company specializing in aluminium profiles and solar mounting systems, gaining insight into renewable energy supply chain infrastructure.</li>
   <li>Observed how solar mounting systems contribute to sustainable energy deployment, which aligns with my professional focus on environmental sustainability, clean technologies, and circular economy solutions.
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <img src="/KBlog.github.io/files/1.jpg" alt="1" style="width: 48%; margin-bottom: 10px;">
-  <img src="/KBlog.github.io/files/2.jpg" alt="2" style="width: 48%; margin-bottom: 10px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <img src="/KBlog.github.io/files/3.jpg" alt="3" style="width: 35%; margin-bottom: 10px;">
   <img src="/KBlog.github.io/files/4.jpg" alt="4" style="width: 35%; margin-bottom: 10px;">
-  <img src="/KBlog.github.io/files/5.jpg" alt="5" style="width: 35%; margin-bottom: 10px;">
-  <img src="/KBlog.github.io/files/6.jpg" alt="6" style="width: 35%; margin-bottom: 10px;">
 </div></li>
 </ul>
 
@@ -222,11 +218,7 @@ author_profile: true
   <li>Visited Bravo Green Sdn. Bhd. to observe their carbonisation technology and production processes for manufacturing biochar and activated carbon from biomass residues, primarily oil palm (PKS) and coconut shell (PKS).</li>
   <li>Engaged in discussions on the current market dynamics for biochar and activated carbon, as well as the biomass market in Sarawak, gaining a deeper understanding of regional resource-triggered opportunities.
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <img src="/KBlog.github.io/files/111.JPG" alt="111" style="width: 48%; margin-bottom: 10px;">
-  <img src="/KBlog.github.io/files/222.JPG" alt="222" style="width: 48%; margin-bottom: 10px;">
-  <img src="/KBlog.github.io/files/333.JPG" alt="333" style="width: 48%; margin-bottom: 10px;">
-  <img src="/KBlog.github.io/files/444.JPG" alt="444" style="width: 48%; margin-bottom: 10px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <img src="/KBlog.github.io/files/555.JPG" alt="555" style="width: 35%; margin-bottom: 10px;">
   <img src="/KBlog.github.io/files/666.JPG" alt="666" style="width: 35%; margin-bottom: 10px;">
 </div></li>
