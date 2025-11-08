@@ -185,7 +185,16 @@ Through this program, I am gaining practical knowledge and skills that bridge th
 <p>5th September 2024, Yongchun County, Quanzhou, Fujian, China</p>
 <ul>
   <li>Visited Fujian Shuangheng Group, a company specializing in aluminium profiles and solar mounting systems, gaining insight into renewable energy supply chain infrastructure.</li>
-  <li>Observed how solar mounting systems contribute to sustainable energy deployment, which aligns with my professional focus on environmental sustainability, clean technologies, and circular economy solutions.</li>
+  <li>Observed how solar mounting systems contribute to sustainable energy deployment, which aligns with my professional focus on environmental sustainability, clean technologies, and circular economy solutions.
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="/KBlog.github.io/files/1.jpg" alt="1" style="width: 48%; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/2.jpg" alt="2" style="width: 48%; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/3.jpg" alt="3" style="width: 48%; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/4.jpg" alt="4" style="width: 48%; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/5.jpg" alt="5" style="width: 48%; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/6.jpg" alt="6" style="width: 48%; margin-bottom: 10px;">
+</div></li>
 </ul>
 
 <h3>3. Visitor, Company Visit to Bravo Green Sdn. Bhd.</h3>
