@@ -5,6 +5,29 @@ permalink: /education/
 author_profile: true
 ---
 
+## Master of Engineering in Environmental Engineering
+**University of Chinese Academy of Sciences, Beijing, China** **(2022-2025)**
+
+CGPA: 3.96 - [View Academic Transcript](/KBlog.github.io/files/UCAS-academic-transcript.pdf)
+<ul>
+  <li style="text-align: justify;">Awarded the ANSO Scholarship for Young Talents Award, granted by the Alliance of International Science Organizations (ANSO) to support exceptional global talents in postgraduate studies in China.</li>
+  <li style="text-align: justify;">Conducted a comparative study of Malaysian Palmae biomass feedstocks for biochar production and carbon dioxide capture, optimized pyrolysis kinetics, and assessed soil amendments in greenhouse and paddy field trials for improved crop growth and soil health.</li>
+</ul>
+
+### Key Achievement:
+
+### 1. 中国科学院大学第五届“诵读中国”经典诵读大赛
+<ul style="text-align: justify;">
+  <li>Achieved Third Place at the university level and received the National Excellence Award, recognizing outstanding performance in literature recitation and cultural expression.</li>
+</ul>
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="/KBlog.github.io/assets/images/RECITATION-1.PNG" alt="Recitation Certificate 1" style="width: 48%;">
+  <img src="/KBlog.github.io/assets/images/RECITATION-2.JPG" alt="Recitation Certificate 2" style="width: 48%;">
+</div>
+
+---
+
 ## Bachelor of Biotechnology
 **Swinburne University of Technology, Sarawak (SUTS), Kuching, Malaysia** **(2019 - 2022)**
 
@@ -38,26 +61,3 @@ In April 2022, I presented my individual project at the 8th International Biotec
 
 #### Certification:
 <img src="/KBlog.github.io/assets/images/IBCEX22.png" alt="IBCEX22 Certificate" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
-
----
-
-## Master of Engineering in Environmental Engineering
-**University of Chinese Academy of Sciences, Beijing, China** **(2022-2025)**
-
-CGPA: 3.96 - [View Academic Transcript](/KBlog.github.io/files/UCAS-academic-transcript.pdf)
-<ul>
-  <li style="text-align: justify;">Awarded the ANSO Scholarship for Young Talents Award, granted by the Alliance of International Science Organizations (ANSO) to support exceptional global talents in postgraduate studies in China.</li>
-  <li style="text-align: justify;">Conducted a comparative study of Malaysian Palmae biomass feedstocks for biochar production and carbon dioxide capture, optimized pyrolysis kinetics, and assessed soil amendments in greenhouse and paddy field trials for improved crop growth and soil health.</li>
-</ul>
-
-### Key Achievement:
-
-### 1. 中国科学院大学第五届“诵读中国”经典诵读大赛
-<ul style="text-align: justify;">
-  <li>Achieved Third Place at the university level and received the National Excellence Award, recognizing outstanding performance in literature recitation and cultural expression.</li>
-</ul>
-
-<div style="display: flex; justify-content: space-between;">
-  <img src="/KBlog.github.io/assets/images/RECITATION-1.PNG" alt="Recitation Certificate 1" style="width: 48%;">
-  <img src="/KBlog.github.io/assets/images/RECITATION-2.JPG" alt="Recitation Certificate 2" style="width: 48%;">
-</div>
