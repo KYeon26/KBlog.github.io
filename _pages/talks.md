@@ -107,8 +107,8 @@ author_profile: true
 </ul>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <img src="/KBlog.github.io/files/USS-1.JPG" alt="USS-1" style="width: 48%; margin-bottom: 10px;">
-  <img src="/KBlog.github.io/files/USS-2.JPG" alt="USS-2" style="width: 48%; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/USS-1.JPG" alt="USS-1" style="width: 35%; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/USS-2.JPG" alt="USS-2" style="width: 35%; margin-bottom: 10px;">
 </div>
 <div style="text-align: center;">
   <img src="/KBlog.github.io/files/USS-3.JPG" alt="USS-3" style="width: 50%; margin-bottom: 10px;">
@@ -134,12 +134,12 @@ Through this program, I am gaining practical knowledge and skills that bridge th
 </ul>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <img src="/KBlog.github.io/files/DS-1.JPG" alt="DS-1" style="width: 48%; margin-bottom: 10px;">
-  <img src="/KBlog.github.io/files/DS-2.jpeg" alt="DS-2" style="width: 48%; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/DS-1.JPG" alt="DS-1" style="width: 35%; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/DS-2.jpeg" alt="DS-2" style="width: 35%; margin-bottom: 10px;">
 </div>
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <img src="/KBlog.github.io/files/DS-3.jpeg" alt="DS-3" style="width: 48%; margin-bottom: 10px;">
-  <img src="/KBlog.github.io/files/DS-4.JPG" alt="DS-4" style="width: 48%; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/DS-3.jpeg" alt="DS-3" style="width: 35%; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/DS-4.JPG" alt="DS-4" style="width: 35%; margin-bottom: 10px;">
 </div>
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <img src="/KBlog.github.io/files/DS-5.jpg" alt="DS-5" style="width: 48%; margin-bottom: 10px;">
@@ -187,8 +187,8 @@ Organized by: International College of UCAS in partnership with the Alliance of 
 </ul>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <img src="/KBlog.github.io/files/SD-1.jpeg" alt="SD-1" style="width: 48%; margin-bottom: 10px;">
-  <img src="/KBlog.github.io/files/SD-2.jpeg" alt="SD-2" style="width: 48%; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/SD-1.jpeg" alt="SD-1" style="width: 35%; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/SD-2.jpeg" alt="SD-2" style="width: 35%; margin-bottom: 10px;">
 </div>
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <img src="/KBlog.github.io/files/SD-3.jpeg" alt="SD-3" style="width: 48%; margin-bottom: 10px;">
@@ -208,10 +208,10 @@ Organized by: International College of UCAS in partnership with the Alliance of 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <img src="/KBlog.github.io/files/1.jpg" alt="1" style="width: 48%; margin-bottom: 10px;">
   <img src="/KBlog.github.io/files/2.jpg" alt="2" style="width: 48%; margin-bottom: 10px;">
-  <img src="/KBlog.github.io/files/3.jpg" alt="3" style="width: 48%; margin-bottom: 10px;">
-  <img src="/KBlog.github.io/files/4.jpg" alt="4" style="width: 48%; margin-bottom: 10px;">
-  <img src="/KBlog.github.io/files/5.jpg" alt="5" style="width: 48%; margin-bottom: 10px;">
-  <img src="/KBlog.github.io/files/6.jpg" alt="6" style="width: 48%; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/3.jpg" alt="3" style="width: 35%; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/4.jpg" alt="4" style="width: 35%; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/5.jpg" alt="5" style="width: 35%; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/6.jpg" alt="6" style="width: 35%; margin-bottom: 10px;">
 </div></li>
 </ul>
 
@@ -226,7 +226,7 @@ Organized by: International College of UCAS in partnership with the Alliance of 
   <img src="/KBlog.github.io/files/222.JPG" alt="222" style="width: 48%; margin-bottom: 10px;">
   <img src="/KBlog.github.io/files/333.JPG" alt="333" style="width: 48%; margin-bottom: 10px;">
   <img src="/KBlog.github.io/files/444.JPG" alt="444" style="width: 48%; margin-bottom: 10px;">
-  <img src="/KBlog.github.io/files/555.JPG" alt="555" style="width: 48%; margin-bottom: 10px;">
-  <img src="/KBlog.github.io/files/666.JPG" alt="666" style="width: 48%; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/555.JPG" alt="555" style="width: 35%; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/666.JPG" alt="666" style="width: 35%; margin-bottom: 10px;">
 </div></li>
 </ul>
