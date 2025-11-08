@@ -201,5 +201,14 @@ Through this program, I am gaining practical knowledge and skills that bridge th
 <p>1st August 2024</p>
 <ul>
   <li>Visited Bravo Green Sdn. Bhd. to observe their carbonisation technology and production processes for manufacturing biochar and activated carbon from biomass residues, primarily oil palm (PKS) and coconut shell (PKS).</li>
-  <li>Engaged in discussions on the current market dynamics for biochar and activated carbon, as well as the biomass market in Sarawak, gaining a deeper understanding of regional resource-triggered opportunities.</li>
+  <li>Engaged in discussions on the current market dynamics for biochar and activated carbon, as well as the biomass market in Sarawak, gaining a deeper understanding of regional resource-triggered opportunities.
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="/KBlog.github.io/files/111.JPG" alt="111" style="width: 48%; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/222.JPG" alt="222" style="width: 48%; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/333.JPG" alt="333" style="width: 48%; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/444.JPG" alt="444" style="width: 48%; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/555.JPG" alt="555" style="width: 48%; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/666.JPG" alt="666" style="width: 48%; margin-bottom: 10px;">
+</div></li>
 </ul>
