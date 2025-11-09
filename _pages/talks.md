@@ -21,6 +21,9 @@ author_profile: true
     margin-right: 10px;
     display: inline-block;
   }
+  .masthead__menu .visible-links {
+    margin-left: 20px; /* Adjust this value to move tabs more to the right */
+  }
   @media (max-width: 768px) {
     .responsive-image-group {
       flex-direction: column;
