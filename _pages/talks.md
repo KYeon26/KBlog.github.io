@@ -13,6 +13,14 @@ author_profile: true
     max-width: 100%;
     height: auto;
   }
+  .masthead-avatar {
+    height: 30px; /* Adjust size as needed */
+    width: 30px; /* Adjust size as needed */
+    border-radius: 50%; /* Make it round */
+    vertical-align: middle;
+    margin-right: 10px;
+    display: inline-block;
+  }
   @media (max-width: 768px) {
     .responsive-image-group {
       flex-direction: column;
@@ -29,6 +37,9 @@ author_profile: true
     }
     #no-stack-mobile img {
       width: 45% !important; /* Adjust width to fit side-by-side on mobile */
+    }
+    .masthead-avatar {
+      display: none; /* Hide on mobile */
     }
   }
 </style>
