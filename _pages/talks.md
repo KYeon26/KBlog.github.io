@@ -9,6 +9,20 @@ author_profile: true
   p, li {
     text-align: justify;
   }
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  @media (max-width: 768px) {
+    .responsive-image-group {
+      flex-direction: column;
+      align-items: center; /* Center items when stacked */
+      gap: 20px; /* Adjust gap for mobile */
+    }
+    .responsive-image-group img {
+      width: 90% !important; /* Make images take up more width on mobile */
+    }
+  }
 </style>
 
 <hr>
@@ -45,7 +59,7 @@ author_profile: true
 <p><a href="/KBlog.github.io/files/Presenter-Certificate-KahHoYeong.pdf" target="_blank">Presenter Certificate</a></p>
 <p><a href="/KBlog.github.io/files/Training-Courses-Certificate-KahHoYeong.pdf" target="_blank">Training Courses Certificate</a></p>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+<div class="responsive-image-group" style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <img src="/KBlog.github.io/files/ASIAFLUX-1.png" alt="ASIAFLUX-1" style="width: 48%; margin-bottom: 10px;">
   <img src="/KBlog.github.io/files/ASIAFLUX-5.JPG" alt="ASIAFLUX-5" style="width: 48%; margin-bottom: 10px;">
   <img src="/KBlog.github.io/files/ASIAFLUX-3.jpeg" alt="ASIAFLUX-3" style="width: 48%; margin-bottom: 10px;">
@@ -74,7 +88,7 @@ author_profile: true
   <li>Explored the latest technological developments and industrial applications in hydrogen production, storage, and energy materials, gaining insight into the interdisciplinary strategies driving the transition to sustainable hydrogen energy systems.</li>
 </ul>
 
-<div style="display: flex; justify-content: space-between;">
+<div class="responsive-image-group" style="display: flex; justify-content: space-between;">
   <img src="/KBlog.github.io/files/JG-2.jpeg" alt="JG-2" style="width: 48%; margin-bottom: 10px;">
   <img src="/KBlog.github.io/files/JG-3.jpeg" alt="JG-3" style="width: 48%; margin-bottom: 10px;">
 </div>
@@ -89,7 +103,7 @@ author_profile: true
   <li>Gained practical insights into biomass management, stakeholder collaboration, and the challenges of scaling biomass technologies in the Malaysian plantation sector.</li>
 </ul>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+<div class="responsive-image-group" style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <img src="/KBlog.github.io/files/MPOB-1.png" alt="MPOB-1" style="width: 23%; margin-bottom: 10px;">
   <img src="/KBlog.github.io/files/MPOB-2.png" alt="MPOB-2" style="width: 23%; margin-bottom: 10px;">
   <img src="/KBlog.github.io/files/MPOB-3.JPG" alt="MPOB-3" style="width: 23%; margin-bottom: 10px;">
@@ -106,7 +120,7 @@ author_profile: true
   <li>The conference built on the success of the USS online lecture series, which has attracted over 30 experts and thousands of participants worldwide, fostering an international platform for knowledge sharing and innovation in urban sustainability.</li>
 </ul>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 60px;">
+<div class="responsive-image-group" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 60px;">
   <img src="/KBlog.github.io/files/USS-1.JPG" alt="USS-1" style="width: 35%; margin-bottom: 10px;">
   <img src="/KBlog.github.io/files/USS-2.JPG" alt="USS-2" style="width: 35%; margin-bottom: 10px;">
 </div>
@@ -134,11 +148,11 @@ author_profile: true
   <li>Gained hands-on knowledge of the entire pyrolysis process, from preparation to biochar collection, and explored how waste can be converted into a valuable resource for environmental sustainability.</li>
 </ul>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 60px;">
+<div class="responsive-image-group" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 60px;">
   <img src="/KBlog.github.io/files/DS-1.JPG" alt="DS-1" style="width: 35%; margin-bottom: 10px;">
   <img src="/KBlog.github.io/files/DS-2.jpeg" alt="DS-2" style="width: 35%; margin-bottom: 10px;">
 </div>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 60px;">
+<div class="responsive-image-group" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 60px;">
   <img src="/KBlog.github.io/files/DS-3.jpeg" alt="DS-3" style="width: 35%; margin-bottom: 10px;">
   <img src="/KBlog.github.io/files/DS-4.JPG" alt="DS-4" style="width: 35%; margin-bottom: 10px;">
 </div>
@@ -154,7 +168,7 @@ author_profile: true
   <li>Gained valuable perspectives on how the integration of science and education, alongside collaboration across disciplines, can accelerate sustainable solutions, directly aligning with my focus on biomass valorisation, biochar production, and environmental technology.
 <p><a href="/KBlog.github.io/files/Spring-school-2023.pdf" target="_blank">Certificate</a></p>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+<div class="responsive-image-group" style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <img src="/KBlog.github.io/files/11.JPG" alt="11" style="width: 48%; margin-bottom: 10px;">
   <img src="/KBlog.github.io/files/22.jpeg" alt="22" style="width: 48%; margin-bottom: 10px;">
   <img src="/KBlog.github.io/files/33.JPG" alt="33" style="width: 48%; margin-bottom: 10px;">
@@ -184,15 +198,15 @@ author_profile: true
   <li>Gained insights into how SDLG’s smart manufacturing strategies—such as production automation, data-driven operations, and sustainable practices—can inform and inspire analogous approaches in biomass, biochar, and bio-based technology sectors that form the core of my academic and professional focus.</li>
 </ul>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 60px;">
+<div class="responsive-image-group" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 60px;">
   <img src="/KBlog.github.io/files/SD-1.jpeg" alt="SD-1" style="width: 35%; margin-bottom: 10px;">
   <img src="/KBlog.github.io/files/SD-2.jpeg" alt="SD-2" style="width: 35%; margin-bottom: 10px;">
 </div>
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+<div class="responsive-image-group" style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <img src="/KBlog.github.io/files/SD-3.jpeg" alt="SD-3" style="width: 48%; margin-bottom: 10px;">
   <img src="/KBlog.github.io/files/SD-4.jpeg" alt="SD-4" style="width: 48%; margin-bottom: 10px;">
 </div>
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+<div class="responsive-image-group" style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <img src="/KBlog.github.io/files/SD-5.jpeg" alt="SD-5" style="width: 48%; margin-bottom: 10px;">
   <img src="/KBlog.github.io/files/SD-6copy.png" alt="SD-6" style="width: 48%; margin-bottom: 10px;">
 </div>
@@ -203,15 +217,15 @@ author_profile: true
   <li>Visited Fujian Shuangheng Group, a company specializing in aluminium profiles and solar mounting systems, gaining insight into renewable energy supply chain infrastructure.</li>
   <li>Observed how solar mounting systems contribute to sustainable energy deployment, which aligns with my professional focus on environmental sustainability, clean technologies, and circular economy solutions.
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 60px;">
+<div class="responsive-image-group" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 60px;">
   <img src="/KBlog.github.io/files/!!.jpg" alt="!!" style="width: 48%; margin-bottom: 10px;">
   <img src="/KBlog.github.io/files/!!!.jpg" alt="!!!" style="width: 48%; margin-bottom: 10px;">
 </div>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 60px;">
+<div class="responsive-image-group" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 60px;">
   <img src="/KBlog.github.io/files/5.jpg" alt="5" style="width: 35%; margin-bottom: 10px;">
   <img src="/KBlog.github.io/files/6.jpg" alt="6" style="width: 35%; margin-bottom: 10px;">
 </div>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 60px;">
+<div class="responsive-image-group" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 60px;">
   <img src="/KBlog.github.io/files/3.jpg" alt="3" style="width: 35%; margin-bottom: 10px;">
   <img src="/KBlog.github.io/files/4.jpg" alt="4" style="width: 35%; margin-bottom: 10px;">
 </div></li>
@@ -223,15 +237,15 @@ author_profile: true
   <li>Visited Bravo Green Sdn. Bhd. to observe their carbonisation technology and production processes for manufacturing biochar and activated carbon from biomass residues, primarily oil palm (PKS) and coconut shell (PKS).</li>
   <li>Engaged in discussions on the current market dynamics for biochar and activated carbon, as well as the biomass market in Sarawak, gaining a deeper understanding of regional resource-triggered opportunities.
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 60px;">
+<div class="responsive-image-group" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 60px;">
   <img src="/KBlog.github.io/files/1.1.JPG" alt="1.1" style="width: 35%; margin-bottom: 10px;">
   <img src="/KBlog.github.io/files/1.2.JPG" alt="1.2" style="width: 35%; margin-bottom: 10px;">
 </div>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 60px;">
+<div class="responsive-image-group" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 60px;">
   <img src="/KBlog.github.io/files/1.3.JPG" alt="1.3" style="width: 35%; margin-bottom: 10px;">
   <img src="/KBlog.github.io/files/1.4.JPG" alt="1.4" style="width: 35%; margin-bottom: 10px;">
 </div>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 60px;">
+<div class="responsive-image-group" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 60px;">
   <img src="/KBlog.github.io/files/555.JPG" alt="555" style="width: 35%; margin-bottom: 10px;">
   <img src="/KBlog.github.io/files/666.JPG" alt="666" style="width: 35%; margin-bottom: 10px;">
 </div></li>
