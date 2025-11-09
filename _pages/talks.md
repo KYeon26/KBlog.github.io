@@ -161,8 +161,8 @@ author_profile: true
   <img src="/KBlog.github.io/files/DS-2.jpeg" alt="DS-2" style="width: 35%; margin-bottom: 10px;">
 </div>
 <div class="responsive-image-group" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 60px;">
-  <img src="/KBlog.github.io/files/DS-3.jpeg" alt="DS-3" style="width: 35%; margin-bottom: 10px;">
-  <img src="/KBlog.github.io/files/DS-4.JPG" alt="DS-4" style="width: 35%; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/DS-3.jpeg" alt="DS-3" style="width: 30%; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/DS-4.JPG" alt="DS-4" style="width: 30%; margin-bottom: 10px;">
 </div>
 
 
