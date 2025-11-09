@@ -107,8 +107,8 @@ author_profile: true
 </ul>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 60px;">
-  <img src="/KBlog.github.io/files/USS-1.JPG" alt="USS-1" style="width: 35%; margin-bottom: 10px;">
-  <img src="/KBlog.github.io/files/USS-2.JPG" alt="USS-2" style="width: 35%; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/USS-1.JPG" alt="USS-1" style="width: 30%; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/USS-2.JPG" alt="USS-2" style="width: 30%; margin-bottom: 10px;">
 </div>
 <div style="text-align: center;">
   <img src="/KBlog.github.io/files/USS-3.JPG" alt="USS-3" style="width: 50%; margin-bottom: 10px;">
@@ -142,10 +142,7 @@ author_profile: true
   <img src="/KBlog.github.io/files/DS-3.jpeg" alt="DS-3" style="width: 35%; margin-bottom: 10px;">
   <img src="/KBlog.github.io/files/DS-4.JPG" alt="DS-4" style="width: 35%; margin-bottom: 10px;">
 </div>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 60px;">
-  <img src="/KBlog.github.io/files/5.jpg" alt="5" style="width: 35%; margin-bottom: 10px;">
-  <img src="/KBlog.github.io/files/6.jpg" alt="6" style="width: 35%; margin-bottom: 10px;">
-</div>
+
 
 <h3>3. Participant, Spring School on Frontier and Interdisciplinary Sciences for Overseas Students</h3>
 <p>Hangzhou Institute for Advanced Study (HIAS), UCAS, Hangzhou, China</p>
@@ -206,6 +203,10 @@ author_profile: true
   <li>Visited Fujian Shuangheng Group, a company specializing in aluminium profiles and solar mounting systems, gaining insight into renewable energy supply chain infrastructure.</li>
   <li>Observed how solar mounting systems contribute to sustainable energy deployment, which aligns with my professional focus on environmental sustainability, clean technologies, and circular economy solutions.
 
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 60px;">
+  <img src="/KBlog.github.io/files/5.jpg" alt="5" style="width: 35%; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/6.jpg" alt="6" style="width: 35%; margin-bottom: 10px;">
+</div>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 60px;">
   <img src="/KBlog.github.io/files/3.jpg" alt="3" style="width: 35%; margin-bottom: 10px;">
   <img src="/KBlog.github.io/files/4.jpg" alt="4" style="width: 35%; margin-bottom: 10px;">
