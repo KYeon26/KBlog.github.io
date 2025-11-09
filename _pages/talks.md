@@ -107,8 +107,8 @@ author_profile: true
 </ul>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 60px;">
-  <img src="/KBlog.github.io/files/USS-1.JPG" alt="USS-1" style="width: 30%; margin-bottom: 10px;">
-  <img src="/KBlog.github.io/files/USS-2.JPG" alt="USS-2" style="width: 30%; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/USS-1.JPG" alt="USS-1" style="width: 35%; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/USS-2.JPG" alt="USS-2" style="width: 35%; margin-bottom: 10px;">
 </div>
 <div style="text-align: center;">
   <img src="/KBlog.github.io/files/USS-3.JPG" alt="USS-3" style="width: 50%; margin-bottom: 10px;">
