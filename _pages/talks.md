@@ -227,7 +227,6 @@ author_profile: true
 
 <div id="no-stack-mobile" class="responsive-image-group" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 60px;">
   <img src="/KBlog.github.io/files/!!.jpg" alt="!!" style="width: 48%; margin-bottom: 10px;">
-  <img src="/KBlog.github.io/files/!!!.jpg" alt="!!!" style="width: 48%; margin-bottom: 10px;">
 </div>
 <div class="responsive-image-group" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 60px;">
   <img src="/KBlog.github.io/files/5.jpg" alt="5" style="width: 35%; margin-bottom: 10px;">
