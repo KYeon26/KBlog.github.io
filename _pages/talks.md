@@ -22,7 +22,7 @@ author_profile: true
     display: inline-block;
   }
   .masthead__menu .visible-links {
-    margin-left: 20px; /* Adjust this value to move tabs more to the right */
+    margin-left: 40px; /* Adjust this value to move tabs more to the right */
   }
   @media (max-width: 768px) {
     .responsive-image-group {
