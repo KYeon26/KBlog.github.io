@@ -313,10 +313,8 @@ author_profile: true
 
 <div class="responsive-image-group" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 60px;">
   <img src="/KBlog.github.io/files/1.1.JPG" alt="1.1" style="width: 48%; margin-bottom: 10px;">
-  <img src="/KBlog.github.io/files/1.2.JPG" alt="1.2" style="width: 48%; margin-bottom: 10px;">
 </div>
 <div class="responsive-image-group" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 60px;">
-  <img src="/KBlog.github.io/files/1.3.JPG" alt="1.3" style="width: 48%; margin-bottom: 10px;">
   <img src="/KBlog.github.io/files/1.4.JPG" alt="1.4" style="width: 48%; margin-bottom: 10px;">
 </div>
 <div class="responsive-image-group" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 60px;">
