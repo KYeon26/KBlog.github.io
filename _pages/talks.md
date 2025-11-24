@@ -41,8 +41,8 @@ author_profile: true
       justify-content: center;
       gap: 10px; /* Smaller gap for mobile side-by-side */
     }
-    #no-stack-mobile img {
-      width: 45% !important; /* Adjust width to fit side-by-side on mobile */
+    img[alt="IMG_7366"] {
+      width: 90% !important; /* Make IMG_7366.jpg bigger on mobile */
     }
     .masthead-avatar {
       display: none; /* Hide on mobile */
