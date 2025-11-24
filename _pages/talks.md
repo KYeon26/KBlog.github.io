@@ -312,10 +312,8 @@ author_profile: true
   <li>Engaged in discussions on the current market dynamics for biochar and activated carbon, as well as the biomass market in Sarawak, gaining a deeper understanding of regional resource-triggered opportunities.
 
 <div class="responsive-image-group" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 60px;">
-  <img src="/KBlog.github.io/files/1.1.JPG" alt="1.1" style="width: 48%; margin-bottom: 10px;">
-</div>
-<div class="responsive-image-group" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 60px;">
-  <img src="/KBlog.github.io/files/1.4.JPG" alt="1.4" style="width: 48%; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/1.1.JPG" alt="1.1" style="width: 45%; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/1.4.JPG" alt="1.4" style="width: 45%; margin-bottom: 10px;">
 </div>
 <div class="responsive-image-group" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 60px;">
   <img src="/KBlog.github.io/files/555.JPG" alt="555" style="width: 35%; margin-bottom: 10px;">
