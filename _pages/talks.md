@@ -229,13 +229,9 @@ author_profile: true
 
   
 
-  <div class="responsive-image-group" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 60px;">
-
-    <img src="/KBlog.github.io/files/NJ.jpeg" alt="NJ" style="width: 48%; margin-bottom: 10px;">
-
-    <img src="/KBlog.github.io/files/NJ5.jpeg" alt="NJ5" style="width: 48%; margin-bottom: 10px;">
-
-  </div>
+<div class="responsive-image-group" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 60px;">
+  <img src="/KBlog.github.io/files/NJ.jpeg" alt="NJ" style="width: 45%; margin-bottom: 10px;">
+</div>
 
   <div class="responsive-image-group" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 60px;">
 
