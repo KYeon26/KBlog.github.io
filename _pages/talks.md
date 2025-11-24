@@ -223,9 +223,25 @@ author_profile: true
 
   <li>Visited Damin International, a company specialising in botanical extraction, marine biotechnology processes, and the automated production of health-food ingredients.</li>
 
-  <li>Explored their innovative approaches to bio‑product manufacturing and product development, gaining insights into their collaboration with global companies, such as Finlays, to advance the health‑food sector.</li>
+    <li>Explored their innovative approaches to bio‑product manufacturing and product development, gaining insights into their collaboration with global companies, such as Finlays, to advance the health‑food sector.</li>
 
-</ul>
+  </ul>
+
+  
+
+  <div class="responsive-image-group" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 60px;">
+
+    <img src="/KBlog.github.io/files/NJ.jpeg" alt="NJ" style="width: 48%; margin-bottom: 10px;">
+
+    <img src="/KBlog.github.io/files/NJ5.jpeg" alt="NJ5" style="width: 48%; margin-bottom: 10px;">
+
+  </div>
+
+  <div class="responsive-image-group" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 60px;">
+
+    <img src="/KBlog.github.io/files/NJ4.jpg" alt="NJ4" style="width: 50%; margin-bottom: 10px;">
+
+  </div>
 
 
 
