@@ -299,8 +299,8 @@ author_profile: true
   <li>Observed how solar mounting systems contribute to sustainable energy deployment, which aligns with my professional focus on environmental sustainability, clean technologies, and circular economy solutions.
 
 <div class="responsive-image-group" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 60px;">
-  <img src="/KBlog.github.io/files/1.jpg" alt="1" style="width: 48%; margin-bottom: 10px;">
-  <img src="/KBlog.github.io/files/2.jpeg" alt="2" style="width: 48%; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/1.jpg" alt="1" style="width: 45%; margin-bottom: 10px;">
+  <img src="/KBlog.github.io/files/2.jpeg" alt="2" style="width: 45%; margin-bottom: 10px;">
 </div>
 
 <div id="no-stack-mobile" class="responsive-image-group" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 60px;">
