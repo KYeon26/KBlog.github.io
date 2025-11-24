@@ -223,7 +223,7 @@ author_profile: true
   <li>Discussed current trends and practices in material innovation and manufacturing, deepening my understanding of how advanced materials can support sustainability, circular economy, and environmental solutions.</li>
 </ul>
 
-<img src="/KBlog.github.io/files/IMG_7366.jpg" alt="IMG_7366" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 10px;">
+
 
 <h3>2. Visitor, Company Visit to Shandong Lingong (SDLG) (山东临工)</h3>
 <p>9th  October 2025, Linyi, Shandong, China</p>
