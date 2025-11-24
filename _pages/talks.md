@@ -215,7 +215,15 @@ author_profile: true
 
 # Company Visits
 
-<h3>1. Visitor, Company Visit to Shandong Lingong (SDLG) (山东临工)</h3>
+<h3>1. Visitor, Company Visit to General Advanced Material Technology Co., Ltd. (通用尖端科技有限公司）</h3>
+<p>12th November 2025, Xiamen, China</p>
+<ul>
+  <li>Visited General Advanced Material Technology Co., Ltd., a company specializing in advanced materials technologies, particularly in eco‑friendly treatments and filtration solutions.</li>
+  <li>Observed their innovative process of using coffee waste to develop sustainable filtering materials, aligning with my focus on waste valorisation and environmental sustainability.</li>
+  <li>Discussed current trends and practices in material innovation and manufacturing, deepening my understanding of how advanced materials can support sustainability, circular economy, and environmental solutions.</li>
+</ul>
+
+<h3>2. Visitor, Company Visit to Shandong Lingong (SDLG) (山东临工)</h3>
 <p>9th  October 2025, Linyi, Shandong, China</p>
 <ul>
   <li>Visited SDLG to observe their 智能制造 (smart manufacturing) operations, including advanced systems like AGVs, 5G + IoT-enabled production lines, and industrial automation, demonstrating how the company is transforming with AI, big data, and digitalization.</li>
