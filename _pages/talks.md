@@ -303,9 +303,7 @@ author_profile: true
   <img src="/KBlog.github.io/files/2.jpeg" alt="2" style="width: 45%; margin-bottom: 10px;">
 </div>
 
-<div id="no-stack-mobile" class="responsive-image-group" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 60px;">
-  <img src="/KBlog.github.io/files/!!.jpg" alt="!!" style="width: 48%; margin-bottom: 10px;">
-</div>
+
 
 </li>
 </ul>
