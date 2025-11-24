@@ -215,24 +215,52 @@ author_profile: true
 
 # Company Visits
 
-<h3>1. Visitor, Company Visit to General Advanced Material Technology Co., Ltd. (通用尖端科技有限公司）</h3>
-<p>12th November 2025, Xiamen, China</p>
+<h3>1. Visitor, Company Visit to Damin International (大闽国际)</h3>
+
+<p>18th November 2025, Nanjing, China</p>
+
 <ul>
-  <li>Visited General Advanced Material Technology Co., Ltd., a company specializing in advanced materials technologies, particularly in eco‑friendly treatments and filtration solutions.</li>
-  <li>Observed their innovative process of using coffee waste to develop sustainable filtering materials, aligning with my focus on waste valorisation and environmental sustainability.</li>
-  <li>Discussed current trends and practices in material innovation and manufacturing, deepening my understanding of how advanced materials can support sustainability, circular economy, and environmental solutions.</li>
+
+  <li>Visited Damin International, a company specialising in botanical extraction, marine biotechnology processes, and the automated production of health-food ingredients.</li>
+
+  <li>Explored their innovative approaches to bio‑product manufacturing and product development, gaining insights into their collaboration with global companies, such as Finlays, to advance the health‑food sector.</li>
+
 </ul>
+
+
+
+<h3>2. Visitor, Company Visit to General Advanced Material Technology Co., Ltd. (通用尖端科技有限公司）</h3>
+
+<p>12th November 2025, Xiamen, China</p>
+
+<ul>
+
+  <li>Visited General Advanced Material Technology Co., Ltd., a company specializing in advanced materials technologies, particularly in eco‑friendly treatments and filtration solutions.</li>
+
+  <li>Observed their innovative process of using coffee waste to develop sustainable filtering materials, aligning with my focus on waste valorisation and environmental sustainability.</li>
+
+  <li>Discussed current trends and practices in material innovation and manufacturing, deepening my understanding of how advanced materials can support sustainability, circular economy, and environmental solutions.</li>
+
+</ul>
+
+
 
 <img src="/KBlog.github.io/files/IMG_7366.jpg" alt="IMG_7366" style="width: 50%; display: block; margin-left: auto; margin-right: auto; margin-bottom: 10px;">
 
 
 
-<h3>2. Visitor, Company Visit to Shandong Lingong (SDLG) (山东临工)</h3>
+<h3>3. Visitor, Company Visit to Shandong Lingong (SDLG) (山东临工)</h3>
+
 <p>9th  October 2025, Linyi, Shandong, China</p>
+
 <ul>
+
   <li>Visited SDLG to observe their 智能制造 (smart manufacturing) operations, including advanced systems like AGVs, 5G + IoT-enabled production lines, and industrial automation, demonstrating how the company is transforming with AI, big data, and digitalization.</li>
+
   <li>Explored the Lingong Intelligence (临工智能) division to understand how AI and automation drive efficiency and sustainability.</li>
+
   <li>Gained insights into how SDLG’s smart manufacturing strategies—such as production automation, data-driven operations, and sustainable practices—can inform and inspire analogous approaches in biomass, biochar, and bio-based technology sectors that form the core of my academic and professional focus.</li>
+
 </ul>
 
 <div class="responsive-image-group" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 60px;">
