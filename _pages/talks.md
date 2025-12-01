@@ -56,12 +56,12 @@ author_profile: true
 
 
 
-<h3>2. Malaysia Board of Technologiests (MBOT) (Since April 2023)</h3>
+<h3>1. Malaysia Board of Technologiests (MBOT) (Since April 2023)</h3>
 <ul>
   <li>Membership No.: GT23045004</li>
 </ul>
 
-<h3>3. Technological Association Malaysia (TAM) (Since March 2021)</h3>
+<h3>2. Technological Association Malaysia (TAM) (Since March 2021)</h3>
 <ul>
   <li>Membership No.: S7994</li>
 </ul>
