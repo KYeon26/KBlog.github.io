@@ -29,4 +29,6 @@ comment: false
   <li>Assisted in sourcing and evaluating suppliers for food processing aids and additives, ensuring high-quality material selection.</li>
 </ul>
 
+<img src="/KBlog.github.io/assets/images/Pic-5.2.jpeg" alt="Product Development Executive" style="display: block; margin-left: auto; margin-right: auto;">
+
 
