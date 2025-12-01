@@ -54,10 +54,7 @@ author_profile: true
 
 # Membership
 
-<h3>1. Alliance of Bioeconomy Cooperation Development @ Borneo (Since Jan 2025)</h3>
-<ul>
-  <li>Deputy Director of Research and Development</li>
-</ul>
+
 
 <h3>2. Malaysia Board of Technologiests (MBOT) (Since April 2023)</h3>
 <ul>
