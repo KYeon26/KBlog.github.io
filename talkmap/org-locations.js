@@ -8,6 +8,5 @@ var addressPoints = [
     "<br />; Malaysia",
     4.5693754,
     102.2656823
-  ],
-
+  ]
 ];
